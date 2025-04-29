@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/banner.png" alt="Bannière du projet" width="700"/>
+</p>
+
 # 📚 Projet 1 – Publications scientifiques en français
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
