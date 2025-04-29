@@ -79,7 +79,38 @@ Projet1_Publications_Francophones/
 ## ⚙️ Lancer le projet
 
 ### 1. Cloner le dépôt
-
 ```bash
 git clone git@github.com:Hicham-Errihani/Projet1_Publications_FR.git
 cd Projet1_Publications_FR
+```
+
+### 2. Configuration de l'environnement
+```bash
+# Créer un environnement virtuel (recommandé)
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+# OU
+venv\Scripts\activate    # Windows
+```
+
+### 3. Installer les dépendances
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Exécuter le projet
+```bash
+python scripts/main.py
+```
+
+### 5. Vérification
+Après exécution, votre terminal devrait afficher :
+```
+hicham@hicham-virtual-machine:~/stage_aifs/projets/01. Le nombre de publications scientifiques en français$
+```
+
+> **Notes importantes** :
+> - Vérifiez que Python 3.8+ est installé (`python --version`)
+> - Le chemin affiché peut varier selon votre configuration
+> - Pour Windows, utilisez `python` au lieu de `python3`
+> - En cas d'erreur, vérifiez les fichiers dans `scripts/`
