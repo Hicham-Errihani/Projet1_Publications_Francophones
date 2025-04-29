@@ -78,17 +78,8 @@ Projet1_Publications_Francophones/
 
 ## ⚙️ Lancer le projet
 
-### 1. Cloner le projet
+### 1. Cloner le dépôt
+
 ```bash
 git clone git@github.com:Hicham-Errihani/Projet1_Publications_FR.git
 cd Projet1_Publications_FR
-
----
-
-## 📊 Visualisation des résultats
-
-### Nombre de publications par année
-![Publications par année](outputs/publications_par_annee.png)
-
-### Nombre de publications par source
-![Publications par source](outputs/publications_par_source.png)
