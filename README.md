@@ -34,27 +34,24 @@ Il combine analyse quantitative (Python, Power BI) et qualitative (NVivo).
 
 ## 📂 Structure du projet
 
+```
 Projet1_Publications_Francophones/
 ├── data/                   # Données brutes et nettoyées
-│
 ├── docs/                   # README, rapport, synthèses
 │   └── banner.png
-│
 ├── nvivo_txt/              # Fichiers .txt pour NVivo
-│
 ├── outputs/                # Graphiques générés
 │   ├── publications_par_annee.png
 │   └── publications_par_source.png
-│
 ├── scripts/                # Scripts Python
 │   ├── extract.py
 │   ├── clean.py
 │   ├── analyze.py
 │   ├── main.py
 │   └── nvivo_export.py
-│
 ├── requirements.txt        # Liste des dépendances
-└── README.md                # Documentation du projet
+└── README.md               # Documentation du projet
+```
 
 ---
 
