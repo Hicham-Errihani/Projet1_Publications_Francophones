@@ -1,0 +1,4 @@
+﻿Titre : Méthodes statistiques pour l’analyse différentielle de données RNA-seq en masse et en cellule unique appliquées en immunologie
+Auteur(s) : Marine Gauthier
+Source : N/A
+Lien : h

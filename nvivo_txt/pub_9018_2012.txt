@@ -1,0 +1,4 @@
+﻿Titre : Etude numérique d'écoulements de paroi compressibles : méthodes d'intégration temporelle semi-implicites et application au canal plan turbulent
+Auteur(s) : François Kremer
+Source : N/A
+Lien : h

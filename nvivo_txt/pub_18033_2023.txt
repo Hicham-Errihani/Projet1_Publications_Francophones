@@ -1,0 +1,4 @@
+﻿Titre : Vers une gestion de ressources opportuniste et sensible au contexte dans les systèmes d'Information pervasifs
+Auteur(s) : David Beserra
+Source : N/A
+Lien : h

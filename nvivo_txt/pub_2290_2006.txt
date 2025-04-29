@@ -1,0 +1,4 @@
+﻿Titre : Comparaison de trois implémentations du modèle de Schelling
+Auteur(s) : Eric Daudé; Patrice Langlois
+Source : N/A
+Lien : h

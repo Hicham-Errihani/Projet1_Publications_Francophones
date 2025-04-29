@@ -1,0 +1,4 @@
+﻿Titre : Lorsque le sous-traité annulé a été exécuté, l'indemnisation du sous-traitant est faite sur la base du coût réel des travaux réalisés
+Auteur(s) : Hugues Périnet-Marquet
+Source : R
+Lien : h

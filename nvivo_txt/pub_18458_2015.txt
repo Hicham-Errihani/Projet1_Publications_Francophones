@@ -1,0 +1,4 @@
+﻿Titre : Étude du comportement élasto-plastique endommageable d'un joint
+Auteur(s) : Olivier Nouailletas; Vincent Lefort; Gilles Pijaudier-Cabot; David Grégoire
+Source : N/A
+Lien : h

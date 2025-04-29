@@ -1,0 +1,4 @@
+﻿Titre : BiiPS : un logiciel pour l'inférence bayésienne dans les modèles graphiques utilisant des méthodes de Monte Carlo séquentielles
+Auteur(s) : Adrien Todeschini; François Caron; Pierrick Legrand; Pierre del Moral
+Source : N/A
+Lien : h

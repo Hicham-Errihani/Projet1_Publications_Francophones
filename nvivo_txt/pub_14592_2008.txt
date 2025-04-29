@@ -1,0 +1,4 @@
+﻿Titre : Contrôle gestuel de transformation de fichiers sonores par techniques granulaires: le ArpGran
+Auteur(s) : Loïc Kessous
+Source : N/A
+Lien : h

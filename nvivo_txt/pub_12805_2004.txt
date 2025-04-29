@@ -1,0 +1,4 @@
+﻿Titre : Modélisation d'un transducteur piézo-céramique ultrasonore vibrant en épaisseur avec VHDL-AMS
+Auteur(s) : Rachid Guelaz; Djilali Kourtiche; Mustapha Nadi
+Source : N/A
+Lien : h

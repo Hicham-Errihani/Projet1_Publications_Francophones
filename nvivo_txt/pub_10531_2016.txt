@@ -1,0 +1,4 @@
+﻿Titre : Mise en place d'un algorithme décisionnel pour la détection des entérobactéries productrices de carbapénèmase (EPC) au laboratoire de bactériologie du CHU Amiens Picardie
+Auteur(s) : Morgane Choquet
+Source : N/A
+Lien : h

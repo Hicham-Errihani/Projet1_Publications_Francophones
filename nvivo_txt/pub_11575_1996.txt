@@ -1,0 +1,4 @@
+﻿Titre : Dates 14C en spéctrométrie de Massé par accélérateur à la Grande Grotte d'Arcy-sur-Cure (Yonne)
+Auteur(s) : M. Girard; N. Tisnerat; H. Valladas; M. Arnold; R. Hedges
+Source : C
+Lien : h

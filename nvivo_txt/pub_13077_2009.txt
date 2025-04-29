@@ -1,0 +1,4 @@
+﻿Titre : Sous-typage coercitif en présence de réductions non-standards dans un système aux types dépendants
+Auteur(s) : Lionel Marie-Magdeleine
+Source : N/A
+Lien : h

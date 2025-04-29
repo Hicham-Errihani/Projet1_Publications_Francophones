@@ -1,0 +1,4 @@
+﻿Titre : Modélisation par réseaux de Petri pour une programmation VHDL. Exemple d'application en robotique mobile d'assistance au handicap
+Auteur(s) : Alexandre Abellard; Mohamed Moncef Ben Khelifa; Moez Bouchouicha; Patrick Abellard
+Source : I
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Caractérisation par problème inverse de l’amortissement présent dans une structure sandwich mousse-plaque avec différents types de contact à l’interface
+Auteur(s) : Meryem Le Deunf
+Source : N/A
+Lien : h

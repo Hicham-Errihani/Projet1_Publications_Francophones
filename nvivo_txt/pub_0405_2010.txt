@@ -1,0 +1,4 @@
+﻿Titre : Sélection de variables explicatives pour une modélisation non-paramétrique de la consommation d'électricité française
+Auteur(s) : Vincent Lefieux; Laurence Teyssier-Maillard
+Source : N/A
+Lien : h

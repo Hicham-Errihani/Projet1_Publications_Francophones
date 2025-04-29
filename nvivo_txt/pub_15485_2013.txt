@@ -1,0 +1,4 @@
+﻿Titre : Modélisation 1D-3Composantes de la réponse sismique d'une colonne de sol multicouche à comportement non linéaire
+Auteur(s) : Maria Paola Santisi d'Avila; Luca Lenti; Jean-François Semblat
+Source : N/A
+Lien : h

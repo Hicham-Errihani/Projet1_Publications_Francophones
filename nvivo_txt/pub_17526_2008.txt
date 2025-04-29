@@ -1,0 +1,4 @@
+﻿Titre : Intégration verticale du satellite dans les architectures de QoS NGN
+Auteur(s) : Emmanuel Chaput; Cédric Baudoin; Alexandra Niculae; Béatrice Paillassa; André-Luc Beylot
+Source : N/A
+Lien : h

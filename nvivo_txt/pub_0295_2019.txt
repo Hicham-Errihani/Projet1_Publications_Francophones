@@ -1,0 +1,4 @@
+﻿Titre : Simulation numérique du comportement thermo-mécanique de composites stratifiés tissés carbone PPS sous flux radiant
+Auteur(s) : Yann Carpier; Fabrice Barbe; Benoît Vieille; Alexis Coppalle
+Source : N/A
+Lien : h

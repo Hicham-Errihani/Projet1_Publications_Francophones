@@ -1,0 +1,4 @@
+﻿Titre : Prise en compte des contraintes résiduelles dans un critère d'amorçage en rupture fragile
+Auteur(s) : Carole Henninger
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Détection d'objets en temps réel : Entraînement de réseaux de neurones convolutifs sur images réelles et synthétiques
+Auteur(s) : T Zgheib; H Borges; V Feldman; T Guntz; C Di Loreto; O Desmaison; F Corduant
+Source : N/A
+Lien : h

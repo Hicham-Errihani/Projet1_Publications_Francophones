@@ -1,0 +1,4 @@
+﻿Titre : Mise au point : Comment définir sans ambiguïté les mouvements d’une articulation : proposition de standardisation pour l’articulation trapézométacarpienne
+Auteur(s) : Raphaël Dumas; Laurence Cheze; M Fayet; Claude Rumelhart; Jean-Jacques Comtet
+Source : C
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Développement et validation d’un indice de production des prairies basé sur l’utilisation de séries temporelles de données satellitaires – Application à un produit d’assurance en France
+Auteur(s) : Antoine Roumiguie
+Source : N/A
+Lien : h

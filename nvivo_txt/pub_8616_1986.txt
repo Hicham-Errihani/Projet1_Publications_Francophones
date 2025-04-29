@@ -1,0 +1,4 @@
+﻿Titre : Application du formalisme exponentiel de Magnus au calcul du profil de la raie semi-dégénérée (4f 4d 4p → 2p) du lithium émise par un plasma électrolytique (Effet d'anode), tenant compte de l'Effet dynamique des ions
+Auteur(s) : J.P. Bardet; J.C. Valognes
+Source : J
+Lien : h

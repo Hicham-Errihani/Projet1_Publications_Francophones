@@ -1,0 +1,4 @@
+﻿Titre : Pix2Point : prédiction monoculaire de scènes 3D par réseaux de neurones hybrides et transport optimal
+Auteur(s) : Rémy Leroy; Bertrand Le Saux; Marcela Pinheiro de Carvalho; Pauline Trouvé-Peloux; Frédéric Champagnat
+Source : N/A
+Lien : h

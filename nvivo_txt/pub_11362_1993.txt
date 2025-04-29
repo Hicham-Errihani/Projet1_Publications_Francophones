@@ -1,0 +1,4 @@
+﻿Titre : Réjection adaptative de l'harmonique prépondérant d'un écoulement pulsé
+Auteur(s) : P. Micheau; P. Coirault; Laurent Hardouin; J. Tartarin
+Source : R
+Lien : h

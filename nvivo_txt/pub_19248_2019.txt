@@ -1,0 +1,4 @@
+﻿Titre : Opposabilité des exceptions au délégataire
+Auteur(s) : Hugues Périnet-Marquet
+Source : R
+Lien : h

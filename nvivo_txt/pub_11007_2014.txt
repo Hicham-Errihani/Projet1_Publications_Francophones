@@ -1,0 +1,4 @@
+﻿Titre : Modélisation de l'information géographique par ontologie spatio-temporelle, floue et lourde pour l'interprétation des images de télédétection
+Auteur(s) : Wassim Messoudi; Imed Riadh Farah; Basel Solaiman
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Hauteur asymptotique des points de Heegner
+Auteur(s) : Guillaume Ricotta; Thomas Vidick
+Source : N/A
+Lien : h

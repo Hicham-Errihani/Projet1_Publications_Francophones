@@ -1,0 +1,4 @@
+﻿Titre : Traduire collectivement l’ontologie formelle du CIDOC CRM en français sur la plateforme GitLab. Un projet sous le prisme simondonien d’un humanisme technologique
+Auteur(s) : Raphaëlle Krummeich; Anaïs Guillem; Bertrand David-jacquot; Muriel van Ruymbeke; Olivier Marlet
+Source : R
+Lien : h

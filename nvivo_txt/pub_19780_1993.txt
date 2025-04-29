@@ -1,0 +1,4 @@
+﻿Titre : Théorème de décomposition d'un feuilletage riemannien singulier transversalement intégrable
+Auteur(s) : Hassan Boualem
+Source : C
+Lien : h

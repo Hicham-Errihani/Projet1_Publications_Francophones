@@ -1,0 +1,4 @@
+﻿Titre : Utilisation d'un modulateur amplificateur miroir (RMEA-SOA) pour la convergence radio sur fibre dans le réseau d'accès
+Auteur(s) : Bouchra Ftaich-Frigui; Christelle Aupetit-Berthelemot; Moctar Mouhamadou; Christophe Kazmierski
+Source : N/A
+Lien : h

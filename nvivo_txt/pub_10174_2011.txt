@@ -1,0 +1,4 @@
+﻿Titre : Spécification de l'architecture fonctionnelle et de l'infrastructure du système ReActivhome
+Auteur(s) : Zheng Hu; Gilles Privat; Laurent Vanstaen
+Source : N/A
+Lien : h

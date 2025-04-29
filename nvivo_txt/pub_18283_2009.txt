@@ -1,0 +1,4 @@
+﻿Titre : Une approche de la démonstration de fiabilité système à partir de tests sur composants unitaires : Cas d'un système en série avec lois de Weibull
+Auteur(s) : Léo Gerville-Réache; Vincent Couallier
+Source : N/A
+Lien : h

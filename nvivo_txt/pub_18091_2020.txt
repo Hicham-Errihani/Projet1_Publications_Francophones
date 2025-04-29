@@ -1,0 +1,4 @@
+﻿Titre : Modélisation au second ordre des transferts thermiques turbulents pour tous types de conditions aux limites thermiques à la paroi.
+Auteur(s) : Gaëtan Mangeon
+Source : N/A
+Lien : h

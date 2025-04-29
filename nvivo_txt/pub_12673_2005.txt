@@ -1,0 +1,4 @@
+﻿Titre : Classification et interrogation de sources de données biologiques
+Auteur(s) : Nizar Messai; Marie-Dominique Devignes; Amedeo Napoli; Malika Smaïl-Tabbone
+Source : R
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Sentiment de satisfaction des docteurs en début de carrière et conditions d’emploi : une analyse au prisme du genre
+Auteur(s) : Clotilde Coron; Anis Amokrane; Matthieu Lafon
+Source : R
+Lien : h

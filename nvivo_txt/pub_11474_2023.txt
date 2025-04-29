@@ -1,0 +1,4 @@
+﻿Titre : Etude de la gélification par l'utilisation de signaux fenêtrés « Chirp » et modélisation associée
+Auteur(s) : Charles Brissot; Arnaud Poulesquen
+Source : N/A
+Lien : h

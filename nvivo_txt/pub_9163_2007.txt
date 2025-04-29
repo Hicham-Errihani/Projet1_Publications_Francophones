@@ -1,0 +1,4 @@
+﻿Titre : Classification par règles linguistiques floues à partir de lots d'apprentissage réduits
+Auteur(s) : Cyril Mazaud; Emmanuel Schmitt; Vincent Bombardier
+Source : N/A
+Lien : h

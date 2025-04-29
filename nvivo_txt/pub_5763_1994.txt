@@ -1,0 +1,4 @@
+﻿Titre : Caractérisation thermique de parois de construction par des mesures en site réel
+Auteur(s) : Catherine Tourrand; Jean-Pierre Chabriat; Harry Boyer
+Source : R
+Lien : h

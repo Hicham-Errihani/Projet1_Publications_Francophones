@@ -1,0 +1,4 @@
+﻿Titre : Procédé de retransmission à protection inégale adaptée aux paquets réseau fragmentés
+Auteur(s) : Sébastien Marcille; Philippe Ciblat; C. Le Martret
+Source : N/A
+Lien : h

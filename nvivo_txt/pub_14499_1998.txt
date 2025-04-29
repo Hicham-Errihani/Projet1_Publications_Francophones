@@ -1,0 +1,4 @@
+﻿Titre : Fibration lagrangienne munie d'une pseudo-métrique compatible
+Auteur(s) : Hassan Boualem; Robert Brouzet; Josephe Rakotondralambo; Francisco-Javier Turiel
+Source : C
+Lien : h

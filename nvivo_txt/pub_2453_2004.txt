@@ -1,0 +1,4 @@
+﻿Titre : Analyse Cinétostatique des Machine Parallèles à Translations
+Auteur(s) : Félix Majou
+Source : N/A
+Lien : h

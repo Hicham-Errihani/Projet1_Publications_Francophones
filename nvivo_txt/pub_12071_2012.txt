@@ -1,0 +1,4 @@
+﻿Titre : Modélisation numérique de la dynamique sédimentaire de l'estuaire de la Vilaine
+Auteur(s) : Caroline Tessier; H Jacob Vested; Bo Brahtz Christensen; Evelyne Goubert; Flore Salaün
+Source : R
+Lien : h

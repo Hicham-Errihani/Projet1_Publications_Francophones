@@ -1,0 +1,4 @@
+﻿Titre : Étude de l’influence du régime pluviométrique sur les volumes journaliers d’effluents entrant dans les stations d’épuration du SIBA : Utilisation d’un modèle de série temporelle pour l’estimation des eaux claires parasites
+Auteur(s) : Yves Le Gat
+Source : N/A
+Lien : h

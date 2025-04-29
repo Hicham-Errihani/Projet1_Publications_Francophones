@@ -1,0 +1,4 @@
+﻿Titre : Problèmes de Tournées de Véhicules avec Synchronisation et Optimisation Multicritère avec l’Intégrale de Choquet
+Auteur(s) : Fabien Lehuédé
+Source : N/A
+Lien : h

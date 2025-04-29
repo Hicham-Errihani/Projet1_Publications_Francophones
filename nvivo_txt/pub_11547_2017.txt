@@ -1,0 +1,4 @@
+﻿Titre : Méthode de compensation hétérodyne du bruit de fréquence d’un peigne de modes de diode laser à blocage de modes actif
+Auteur(s) : Mohamed Omar Sahni; Stephane Trebaol; Laurent Bramerie; Michel Joindot; Sean P O'Duill; Pascal Besnard; Liam P Barry
+Source : N/A
+Lien : h

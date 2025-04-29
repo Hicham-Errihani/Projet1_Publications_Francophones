@@ -1,0 +1,4 @@
+﻿Titre : Un modèle multi-agents pour simuler les échanges de matières agricoles dans les territoires de polyculture-élevage
+Auteur(s) : Hugo Fernandez-Mena; Thomas Nesme; Sylvain Pellerin
+Source : N/A
+Lien : h

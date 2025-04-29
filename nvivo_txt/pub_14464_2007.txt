@@ -1,0 +1,4 @@
+﻿Titre : Thermique des contacts glissants en présence de 3ème corps solide
+Auteur(s) : David Richard; Ivan Iordanoff; Mathieu Renouf; Yves Berthier
+Source : N/A
+Lien : h

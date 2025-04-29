@@ -1,0 +1,4 @@
+﻿Titre : Estimation de paramètres clés liés à la gestion d'un réseau de distribution d'eau potable : Méthode d'inférence sur les noeuds d'un graphe
+Auteur(s) : Christophe Dumora
+Source : N/A
+Lien : h

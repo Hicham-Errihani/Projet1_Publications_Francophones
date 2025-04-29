@@ -1,0 +1,4 @@
+﻿Titre : Intégration de périphériques contraints par reconfiguration dynamique d'applications - Cas des capteurs sans-fil
+Auteur(s) : Christine Louberry; Marc Dalmau; Philippe Roose
+Source : N
+Lien : h

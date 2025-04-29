@@ -1,0 +1,4 @@
+﻿Titre : Lien ville-hôpital : définition du contenu d’une fiche de liaison à destination du médecin généraliste, à la sortie d’un service de gériatrie, en Isère
+Auteur(s) : Mathieu Dufaitre
+Source : N/A
+Lien : h

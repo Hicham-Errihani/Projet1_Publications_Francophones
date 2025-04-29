@@ -1,0 +1,4 @@
+﻿Titre : Application de mesures d’intensité relative pour la classification de cas de désocclusion et de voisement de /t/ en parole pathologique.
+Auteur(s) : Tanja Kocjančič Antolík; Cécile Fougeron; Patrycja Strycharczuk
+Source : N/A
+Lien : h

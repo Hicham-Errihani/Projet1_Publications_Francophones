@@ -1,0 +1,4 @@
+﻿Titre : Conception d'un réseau de neurones du cœur de sangsue
+Auteur(s) : Timothée Levi; Matthieu Ambroise; Filippo Grassia; Takashi Kohno
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Intération du modèle du signal IRM pour la correction du mouvement et segmentation d'images automatisée : application à la thermométrie cardiaque
+Auteur(s) : Aurelie Emilien
+Source : N/A
+Lien : h

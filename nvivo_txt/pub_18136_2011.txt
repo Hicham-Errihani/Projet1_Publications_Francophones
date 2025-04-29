@@ -1,0 +1,4 @@
+﻿Titre : Indexation spatiale et temporelle baséee sur un principe de "tuilage" : contribution à la recherche d'information géographique dans des documents textuels faiblement structurés
+Auteur(s) : Christian Sallaberry; Damien Palacio; Mauro Gaio
+Source : N/A
+Lien : h

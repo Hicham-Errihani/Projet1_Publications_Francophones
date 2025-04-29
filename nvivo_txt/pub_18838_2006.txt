@@ -1,0 +1,4 @@
+﻿Titre : Synthèses d'observateurs pour systèmes Takagi-Sugeno singuliers à entrées inconnues
+Auteur(s) : Benoît Marx; José Ragot
+Source : N/A
+Lien : h

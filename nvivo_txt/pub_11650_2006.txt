@@ -1,0 +1,4 @@
+﻿Titre : Etude de la Stabilité des Rotors avec Prise en compte de lAmortissement Interne et Effet du Cisaillement Transverse
+Auteur(s) : Rim Sino; Eric Chatelet; Thouraya Nouri-Baranger; Georges Jacquet-Richardet
+Source : N/A
+Lien : h

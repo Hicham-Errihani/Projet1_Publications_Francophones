@@ -1,0 +1,4 @@
+﻿Titre : Schema de decomposition pour l'equation de hamilton-jacobi
+Auteur(s) : Sady Maurin
+Source : N/A
+Lien : h

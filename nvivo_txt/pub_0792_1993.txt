@@ -1,0 +1,4 @@
+﻿Titre : Étude de schémas à haute précision pour la simulation d'écoulements transsoniques instationnaires ou visqueux. Application aux turbomachines
+Auteur(s) : Stéphane Aubert
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : GENESIS, un environnement pour la création musicale à l'aide de modèles physiques particulaires
+Auteur(s) : Nicolas Castagné
+Source : N/A
+Lien : h

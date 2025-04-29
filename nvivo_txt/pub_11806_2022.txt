@@ -1,0 +1,4 @@
+﻿Titre : Identification de HRTFs individuelles par selfies binauraux et apprentissage machine
+Auteur(s) : Anatole Moreau; Olivier Warusfel
+Source : N/A
+Lien : h

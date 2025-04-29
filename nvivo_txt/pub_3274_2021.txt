@@ -1,0 +1,4 @@
+﻿Titre : La confidentialité différentielle : quelle quantification de la privacy dans le monde de l’apprentissage automatique ?
+Auteur(s) : Edwige Cyffers
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Le langage V1 : structures engendrées par la grammaire et relations entre structures grammaticales – 2e partie
+Auteur(s) : Gabriel G. Bès; Pierre-Maurice Fauchère
+Source : C
+Lien : h

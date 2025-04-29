@@ -1,0 +1,4 @@
+﻿Titre : Conception et réalisation d'un convertisseur RF/DC dédié à la collecte de faibles niveaux de puissance
+Auteur(s) : Alexandre Douyère; Samuel Emilien Rivière; Jérôme Rivière; Frédéric Alicalapa; Jean-Daniel Lan Sun Luk
+Source : N/A
+Lien : h

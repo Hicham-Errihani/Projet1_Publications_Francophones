@@ -1,0 +1,4 @@
+﻿Titre : Développement d'un système de gestion des enregistrements vidéo des séances plénières à l'Assemblée Nationale Constituante Tunisienne
+Auteur(s) : Kawthar Thabet; Mohamed Ben Romdhane
+Source : R
+Lien : h

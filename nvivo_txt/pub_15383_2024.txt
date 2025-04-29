@@ -1,0 +1,4 @@
+﻿Titre : Prédiction de la complexité lexicale : Une étude comparative entre ChatGPT et un modèle dédié à cette tâche.
+Auteur(s) : Abdelhak Kelious; Mathieu Constant; Christophe Coeur
+Source : N/A
+Lien : h

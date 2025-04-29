@@ -1,0 +1,4 @@
+﻿Titre : Equilibrage de bilan pour des systèmes linéaires en régime dynamique
+Auteur(s) : José Ragot; Abderrahmane Janyene; Didier Maquin
+Source : N/A
+Lien : h

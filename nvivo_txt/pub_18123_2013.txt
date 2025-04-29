@@ -1,0 +1,4 @@
+﻿Titre : Généralisation de la méthode Nitsche XFEM pour la discrétisation de problèmes d'interface elliptiques
+Auteur(s) : Nelly Barrau
+Source : N/A
+Lien : h

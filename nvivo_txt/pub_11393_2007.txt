@@ -1,0 +1,4 @@
+﻿Titre : Optimisation de forme multi-objectif sur machines parallèles avec méta-modèles et coupleurs
+Auteur(s) : Florent Duchaine
+Source : N/A
+Lien : h

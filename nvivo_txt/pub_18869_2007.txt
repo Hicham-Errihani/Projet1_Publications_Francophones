@@ -1,0 +1,4 @@
+﻿Titre : Ordonnancement de processus légers sur architectures multiprocesseurs hiérarchiques : BubbleSched, une approche exploitant la structure du parallélisme des applications
+Auteur(s) : Samuel Thibault
+Source : N/A
+Lien : h

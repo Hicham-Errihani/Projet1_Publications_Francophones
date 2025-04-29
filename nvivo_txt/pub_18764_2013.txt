@@ -1,0 +1,4 @@
+﻿Titre : Homogénéisation des matériaux hétérogènes élastoviscoplastiques basée sur la technique des « champs translatés » : extension « affine » au cas non linéaire pour des composites biphasés
+Auteur(s) : Stéphane Berbenni; Laurent Capolungo
+Source : N/A
+Lien : h

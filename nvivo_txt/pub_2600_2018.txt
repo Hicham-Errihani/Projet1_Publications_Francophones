@@ -1,0 +1,4 @@
+﻿Titre : Modélisations de l'interaction pollinisateurs/palmiers à l'aide d'approches déterministes et multi-agents. Application sur l'estimation du taux de nouaison
+Auteur(s) : Yves Dumont; Jean-Christophe Soulié; Fabien Michel
+Source : N/A
+Lien : h

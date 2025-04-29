@@ -1,0 +1,4 @@
+﻿Titre : Aspects des fonctions elliptiques. \\ Solutions périodiques d'équations différentielles.\\ Métriques pseudo-cylindriques. \\ Problèmes isopérimètriques plans
+Auteur(s) : Raouf Chouikha
+Source : N/A
+Lien : h

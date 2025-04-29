@@ -1,0 +1,4 @@
+﻿Titre : Caractérisation des interactions électromagnétiques pour l'intégration de capteurs en électronique de puissance
+Auteur(s) : Guillaume Viné; Paul-Etienne Vidal; Jean-Marc Diénot
+Source : N/A
+Lien : h

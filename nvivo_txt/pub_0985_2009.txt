@@ -1,0 +1,4 @@
+﻿Titre : Optimisation du critère d'Hurwicz pour les arbres de décision hasard en situation d'incertain total
+Auteur(s) : Gildas Jeantet
+Source : N/A
+Lien : h

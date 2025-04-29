@@ -1,0 +1,4 @@
+﻿Titre : Un observateur non linéaire par modes glissants à convergence en temps fini
+Auteur(s) : Vincent Bregeault; Franck Plestan
+Source : J
+Lien : h

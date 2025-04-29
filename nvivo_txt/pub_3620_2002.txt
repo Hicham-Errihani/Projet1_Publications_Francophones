@@ -1,0 +1,4 @@
+﻿Titre : Discussion du nombre de solutions réelles d'un système dépendant de paramètres.
+Auteur(s) : Daniel Lazard
+Source : N/A
+Lien : h

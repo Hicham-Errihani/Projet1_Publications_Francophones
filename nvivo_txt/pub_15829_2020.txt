@@ -1,0 +1,4 @@
+﻿Titre : BEN : Une architecture pour des agents cognitifs, affectifs et sociaux dans la simulation
+Auteur(s) : Mathieu Bourgais; Patrick Taillandier; Laurent Vercouter
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Les revenus pris en compte dans le calcul des cotisations de sécurité sociale des non-salariés agricoles
+Auteur(s) : Thierry Tauran; Mathilde Raynal
+Source : R
+Lien : h

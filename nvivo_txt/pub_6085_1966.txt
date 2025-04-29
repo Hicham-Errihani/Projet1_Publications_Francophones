@@ -1,0 +1,4 @@
+﻿Titre : PROJECTION DES FONCTIONS D'ONDE DE HARTREE-FOCK SUR UN MOMENT CINÉTIQUE DONNÉ DANS LES NOYAUX LÉGERS
+Auteur(s) : W. Bassichis; B. Giraud; G. Ripka
+Source : J
+Lien : h

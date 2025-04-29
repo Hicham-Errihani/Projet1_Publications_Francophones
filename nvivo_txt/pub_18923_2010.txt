@@ -1,0 +1,4 @@
+﻿Titre : Réparation locale de réfutation de formules SAT
+Auteur(s) : Nicolas Prcovic
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Approche multi-résolution pour la modélisation de coques composites basée sur la séparation de variables
+Auteur(s) : Olivier Polit; Philippe Vidal; Laurent Gallimard
+Source : N/A
+Lien : h

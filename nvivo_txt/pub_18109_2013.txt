@@ -1,0 +1,4 @@
+﻿Titre : Mesure de la similarité entre termes et labels de concepts ontologiques
+Auteur(s) : van Tien Nguyen; Christian Sallaberry; Mauro Gaio
+Source : N/A
+Lien : h

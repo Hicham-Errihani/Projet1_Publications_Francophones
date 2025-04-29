@@ -1,0 +1,4 @@
+﻿Titre : Intégration du problème du prépositionnement d'avion au poste de parking et portes d'embarquement en minimisant le risque de connections manquées
+Auteur(s) : Thilo Pfeiffer; Rodrigo Acuna Agost; Thierry Delahaye; Salaheddine Jouhri
+Source : N/A
+Lien : h

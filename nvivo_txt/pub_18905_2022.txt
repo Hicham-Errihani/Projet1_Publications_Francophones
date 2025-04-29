@@ -1,0 +1,4 @@
+﻿Titre : Apprentissage profond auto-supervisé de métriques : application à la prédiction d'assemblage de fragments de papyrus
+Auteur(s) : Antoine Pirrone
+Source : N/A
+Lien : h

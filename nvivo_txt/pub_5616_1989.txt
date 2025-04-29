@@ -1,0 +1,4 @@
+﻿Titre : Tests de racines unitaires et stationnarisation des series non stationnaires : presentation generale et application au cas des series agricoles
+Auteur(s) : C. Tavera
+Source : N/A
+Lien : h

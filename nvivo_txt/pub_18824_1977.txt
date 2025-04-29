@@ -1,0 +1,4 @@
+﻿Titre : Codes et sous-monoides possedant des mots neutres
+Auteur(s) : Dominique Perrin; Marcel-Paul Schützenberger
+Source : N/A
+Lien : h

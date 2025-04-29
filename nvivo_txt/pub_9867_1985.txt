@@ -1,0 +1,4 @@
+﻿Titre : Etude de l'influence de la temperature sur la reponse d'un capteur d'humidite CIMEL
+Auteur(s) : R. Antonioletti; A. Pinguet
+Source : N/A
+Lien : h

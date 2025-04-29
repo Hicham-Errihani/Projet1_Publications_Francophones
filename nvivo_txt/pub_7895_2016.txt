@@ -1,0 +1,4 @@
+﻿Titre : Estimation non-paramétrique adaptative pour des modèles bruités
+Auteur(s) : Gwennaëlle Mabon
+Source : N/A
+Lien : h

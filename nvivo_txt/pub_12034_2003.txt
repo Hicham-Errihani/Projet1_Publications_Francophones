@@ -1,0 +1,4 @@
+﻿Titre : Guidage automatique d'un engin agricole par GPS cinématique.
+Auteur(s) : Christophe Cariou; Benoît Thuilot; P. Martinet; M Berducat
+Source : J
+Lien : h

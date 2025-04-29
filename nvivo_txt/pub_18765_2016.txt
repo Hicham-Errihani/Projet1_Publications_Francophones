@@ -1,0 +1,4 @@
+﻿Titre : Simulation sous Abaqus de la réponse vibratoire d'une structure à un bruit de couche limite turbulente
+Auteur(s) : Maxence Claeys
+Source : N/A
+Lien : h

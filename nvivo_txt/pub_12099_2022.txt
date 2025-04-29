@@ -1,0 +1,4 @@
+﻿Titre : Intégrateurs géométriques en géométrie de Poisson
+Auteur(s) : Oscar Cosserat; Vladimir Salnikov; Camille Laurent-Gengoux
+Source : N/A
+Lien : h

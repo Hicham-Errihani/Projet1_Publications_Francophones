@@ -1,0 +1,4 @@
+﻿Titre : Ensemble de niveaux robustes au speckle et recalage B-spline
+Auteur(s) : Marco Mora Cofré
+Source : N/A
+Lien : h

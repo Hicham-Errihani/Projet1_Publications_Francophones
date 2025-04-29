@@ -1,0 +1,4 @@
+﻿Titre : Predicting the steady state thickness of passive films with the Point Defect Model in fretting corrosion experiments // Prévision de l'épaisseur du film passif d'un acier inoxydable 316L soumis au fretting corrosion grâce au Point Defect Model, PDM
+Auteur(s) : Jean Geringer; Digby D. Macdonald; Mathew L. Taylor
+Source : M
+Lien : h

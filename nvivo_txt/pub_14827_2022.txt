@@ -1,0 +1,4 @@
+﻿Titre : OWL2YAMS : créer une application CubicWeb à partir d'une ontologie OWL
+Auteur(s) : Fabien Amarger; Nicolas Chauvat; Elodie Thieblin
+Source : N/A
+Lien : h

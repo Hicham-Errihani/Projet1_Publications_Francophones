@@ -1,0 +1,4 @@
+﻿Titre : Sélection automatique d'opérateurs dans un arbre de recherche de Monte-Carlo pour la coloration de graphe pondéré
+Auteur(s) : Cyril Grelier; Olivier Goudet; Jin-Kao Hao
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Application de méthodes statistiques pour la mise en oeuvre d'une nouvelle version de l'Indice Biologique Diatomées
+Auteur(s) : Sébastien Boutry
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : HMM Framework, for Industrial Maintenance Activities
+Auteur(s) : Bernard Robles; Manuel Avila; Florent Duculty; Pascal Vrignat; Stéphane Begot; Frédéric Kratz
+Source : N/A
+Lien : h

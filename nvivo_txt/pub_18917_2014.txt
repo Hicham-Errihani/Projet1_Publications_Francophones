@@ -1,0 +1,4 @@
+﻿Titre : Le " refactoring " de systèmes logiciels : refactoring de modèles pour l'évolution perfective.
+Auteur(s) : Xavier Dolques; Jean-Rémy Falleri; Marianne Huchard; Clémentine Nebut; Amine Mohamed Rouane Hacene; Petko Valtchev
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Commande vectorielle sans capteur des machines asynchrones
+Auteur(s) : Claude Chaigne; Erik Etien; Sebastien Cauet; Laurent Rambault
+Source : N/A
+Lien : h

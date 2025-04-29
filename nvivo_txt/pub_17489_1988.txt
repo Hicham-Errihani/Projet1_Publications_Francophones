@@ -1,0 +1,4 @@
+﻿Titre : Identification de souches de levures oenologiques par leurs caryotypes obtenus en electrophorese en champ use
+Auteur(s) : Bruno Blondin; Francoise Vezinhet
+Source : R
+Lien : h

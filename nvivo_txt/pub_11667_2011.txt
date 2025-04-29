@@ -1,0 +1,4 @@
+﻿Titre : Moindres carrés récursifs pour l'évaluation off-policy d'une politique avec traces d'éligibilité
+Auteur(s) : Bruno Scherrer; Matthieu Geist
+Source : N/A
+Lien : h

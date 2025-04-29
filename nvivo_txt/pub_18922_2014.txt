@@ -1,0 +1,4 @@
+﻿Titre : Nouveaux modèles d'estimation monophone de distance et d'analyse parcimonieuse : Applications sur signaux transitoires et stationnaires bioacoustiques à l’échelle
+Auteur(s) : Yann Doh
+Source : N/A
+Lien : h

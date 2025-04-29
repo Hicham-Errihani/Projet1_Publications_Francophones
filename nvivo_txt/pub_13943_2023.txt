@@ -1,0 +1,4 @@
+﻿Titre : Détection et classification automatiques d'erreurs de prononciation en L2 : approche basée sur les connaissances didactiques
+Auteur(s) : Romain Contrain; Julien Pinquier; Lionel Fontan; Isabelle Ferrané
+Source : N/A
+Lien : h

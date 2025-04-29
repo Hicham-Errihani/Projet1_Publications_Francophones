@@ -1,0 +1,4 @@
+﻿Titre : Introduction au modele log-lineaire a partir d'un exemple dans le cas le plus simple : deux variables dichotomiques
+Auteur(s) : H. Ossard; Michel Simioni
+Source : N/A
+Lien : h

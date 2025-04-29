@@ -1,0 +1,4 @@
+﻿Titre : Segmentation de l'arbre vasculaire rétinien : étude de la performance en fonction de l'approche de segmentation
+Auteur(s) : Henda Boudegga; Rahma Boukaddida; Yaroub Elloumi; Rostom Kachouri; Asma Ben Abdallah; Mohamed Hedi Bedoui
+Source : N/A
+Lien : h

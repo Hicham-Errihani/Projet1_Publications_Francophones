@@ -1,0 +1,4 @@
+﻿Titre : Analyse de l'écoulement de Poiseuille - Rayleigh - Bénard (PRB) par la méthode de Lattice Boltzmann
+Auteur(s) : S. Eddakiri; Elalami Semma; Mohammed El Ganaoui; Rachid Bennacer
+Source : N/A
+Lien : h

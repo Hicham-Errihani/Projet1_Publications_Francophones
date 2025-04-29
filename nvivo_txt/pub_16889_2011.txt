@@ -1,0 +1,4 @@
+﻿Titre : Simulation de haut niveau de systèmes d'exploitations distribués pour l'exploration matérielle et logicielle d'architectures multi-noeuds hétérogènes
+Auteur(s) : Emmanuel Huck
+Source : N/A
+Lien : h

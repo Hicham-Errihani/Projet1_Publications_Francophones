@@ -1,0 +1,4 @@
+﻿Titre : Influence de la turbulence et des effets d'inertie sur les caractéristiques statiques et dynamiques des paliers amortisseurs
+Auteur(s) : M. Guillien; D. Nelias; Benyebka Bou-Saïd
+Source : N/A
+Lien : h

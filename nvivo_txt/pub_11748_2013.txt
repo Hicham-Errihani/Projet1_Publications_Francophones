@@ -1,0 +1,4 @@
+﻿Titre : Utilisation des infrastructures de la Grille EGI pour les simulations de CTA
+Auteur(s) : Luisa Arrabito; Johann Cohen-Tanugi; Giovanni Lamanna; Nadine Neyroud; Matthieu Renaud
+Source : N/A
+Lien : h

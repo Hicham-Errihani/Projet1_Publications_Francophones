@@ -1,0 +1,4 @@
+﻿Titre : Description des prédicats du premier ordre pour la compréhension automatique des textes
+Auteur(s) : Pierre-André Buvet
+Source : C
+Lien : h

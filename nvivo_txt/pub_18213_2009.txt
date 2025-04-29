@@ -1,0 +1,4 @@
+﻿Titre : Approche déclarative pour la génération de canevas logiciels dédiés à l'informatique ubiquitaire
+Auteur(s) : Wilfried Jouve
+Source : N/A
+Lien : h

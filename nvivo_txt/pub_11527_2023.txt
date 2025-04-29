@@ -1,0 +1,4 @@
+﻿Titre : Défense contre les attaques par porte dérobée en apprentissage fédéré par estimation du motif d'attaque et élagage
+Auteur(s) : Fabiola Espinoza Castellon; Deepika Singh; Aurélien Mayoue; Cedric Gouy-Pailler
+Source : N/A
+Lien : h

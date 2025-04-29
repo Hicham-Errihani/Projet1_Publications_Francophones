@@ -1,0 +1,4 @@
+﻿Titre : Noyau et métrique de Bergman dans des formules de représentations pour les convexes de type fini et applications
+Auteur(s) : Mathieu Fructus
+Source : N/A
+Lien : h

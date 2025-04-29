@@ -1,0 +1,4 @@
+﻿Titre : Extraction d'horloge des signaux optiques par une boucle à verrouillage de phase opto-electronique utilisant un dispositif en niobate de lithium à inversion de domaines
+Auteur(s) : F. Gómez Agis; Cédric Ware; D. Erasme
+Source : N/A
+Lien : h

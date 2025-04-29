@@ -1,0 +1,4 @@
+﻿Titre : Conception et évaluation d'un système transparent de capture de mouvements des mains pour l'interaction 3D temps réel en environnements virtuels
+Auteur(s) : Franck Hernoux
+Source : N/A
+Lien : h

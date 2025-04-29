@@ -1,0 +1,4 @@
+﻿Titre : Stabilité de l'écoulement d'un fluide à seuil en géométrie de Taylor-Couette
+Auteur(s) : Yao Agbessi; Chérif Nouar; Cécile Lemaitre; Lionel Choplin
+Source : N/A
+Lien : h

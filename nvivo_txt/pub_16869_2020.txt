@@ -1,0 +1,4 @@
+﻿Titre : Segmentation sémantique d'images aériennes avec améliorations interactives
+Auteur(s) : Gaston Lenczner; Bertrand Le Saux; Nicolas Luminari; Adrien Chan-Hon-Tong; Guy Le Besnerais
+Source : N/A
+Lien : h

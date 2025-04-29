@@ -1,0 +1,4 @@
+﻿Titre : Sélection de biomarqueurs pour prédire la tendreté de la viande de boeuf basée sur l'importance des variables
+Auteur(s) : Jérôme Saracco; Marie Chavent; Marie-Pierre Ellies-Oury
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Les bases du gestionnaire de version GIT. Gestion des branches et travail en équipe avec GIT. Perspectives sur les forges logicielles.
+Auteur(s) : C. Mouton
+Source : N/A
+Lien : h

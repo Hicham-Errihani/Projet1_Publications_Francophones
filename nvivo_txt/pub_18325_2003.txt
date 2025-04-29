@@ -1,0 +1,4 @@
+﻿Titre : The real frequency technique applied to the synthesis of MMIC active filter with attenuation poles at finite frequencies
+Auteur(s) : Eric Kerherve; Pierre Jarry
+Source : I
+Lien : h

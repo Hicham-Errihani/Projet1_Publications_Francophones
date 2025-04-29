@@ -1,0 +1,4 @@
+﻿Titre : Une technique de décomposition pour Max-CSP
+Auteur(s) : Hachémi Bennaceur; Christophe Lecoutre; Olivier Roussel
+Source : N/A
+Lien : h

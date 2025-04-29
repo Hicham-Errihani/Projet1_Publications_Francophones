@@ -1,0 +1,4 @@
+﻿Titre : Etude des dispersions et incertitudes en optimisation et dans l'analyse des valeurs propres
+Auteur(s) : Rémi Croquet
+Source : N/A
+Lien : h

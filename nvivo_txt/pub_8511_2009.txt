@@ -1,0 +1,4 @@
+﻿Titre : Modélisation des processus réactionnels en solution avec JCHESS
+Auteur(s) : Laurent de Windt
+Source : N/A
+Lien : h

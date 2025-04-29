@@ -1,0 +1,4 @@
+﻿Titre : SOMbrero : Cartes auto-organisatrices stochastiques pour l'intégration de données décrites par des tableaux de dissimilarités
+Auteur(s) : Laura Bendhaiba; Madalina Olteanu; Nathalie Villa-Vialaneix
+Source : N/A
+Lien : h

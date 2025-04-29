@@ -1,0 +1,4 @@
+﻿Titre : Méthode inverse de conduction de la chaleur instationnaire non linéaire sur pièce complexe
+Auteur(s) : Philippe Reulet; Nicolas Dellinger
+Source : N/A
+Lien : h

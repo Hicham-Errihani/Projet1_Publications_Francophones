@@ -1,0 +1,4 @@
+﻿Titre : Modélisation conjointe de données longitudinales et de durées de vie
+Auteur(s) : Jean-François Dupuy
+Source : N/A
+Lien : h

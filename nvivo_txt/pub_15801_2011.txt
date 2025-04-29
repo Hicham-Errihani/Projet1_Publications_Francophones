@@ -1,0 +1,4 @@
+﻿Titre : Contribution à l'algorithmique et à la programmation efficace des nouvelles architectures parallèles comportant des accélérateurs de calcul dans le domaine de la neutronique et de la radioprotection
+Auteur(s) : Dubois Jérôme
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Fouille de données par programmation visuelle structurée avec KD-Ariane
+Auteur(s) : Régis Clouard; François Rioult
+Source : N/A
+Lien : h

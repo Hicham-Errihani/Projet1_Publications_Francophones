@@ -1,0 +1,4 @@
+﻿Titre : Simulation pour la prévision du nombre de locus ciblés par les approches de Génotypage par Séquençage
+Auteur(s) : Olivier Lepais; Franck F. Salin; Christophe C. Boury; Erwan Guichoux; Yec'Han Laizet; Jason T Weir
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Méthodes expérimentales et numériques destinées à l'analyse et l'optimisation du fonctionnement des pompes volumétriques de type Moineau (TM). Application au pompage de fluides à rhéologie complexe
+Auteur(s) : Mikaël Berton; Olivier Allain; Amine Ammar; Elodie Ferreira; Francine Fayrolle
+Source : N/A
+Lien : h

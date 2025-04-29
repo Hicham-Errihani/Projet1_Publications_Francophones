@@ -1,0 +1,4 @@
+﻿Titre : Systèmes de Réaction-Diffusion sans Propriété de Fredholm
+Auteur(s) : Arnaud Ducrot; Martine Marion; Vitaly Volpert
+Source : C
+Lien : h

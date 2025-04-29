@@ -1,0 +1,4 @@
+﻿Titre : Production d'impulsions à flancs raides au moyen de transistors en régime d'avalanche
+Auteur(s) : Elmar Schulte
+Source : J
+Lien : h

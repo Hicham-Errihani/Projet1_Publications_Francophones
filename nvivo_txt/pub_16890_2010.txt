@@ -1,0 +1,4 @@
+﻿Titre : Extraction et reconnaissance de primitives dans les façades de Paris à l'aide de similarités de graphes
+Auteur(s) : Jean-Emmanuel Haugeard
+Source : N/A
+Lien : h

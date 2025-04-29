@@ -1,0 +1,4 @@
+﻿Titre : Equivalents lait et rendements en produits laitiers : modes de calculs et utilisation
+Auteur(s) : Christian Meyer; Guillaume Duteurtre
+Source : R
+Lien : h

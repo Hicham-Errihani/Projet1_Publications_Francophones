@@ -1,0 +1,4 @@
+﻿Titre : EtROP2, une ROP kinase localisée au sein du compartiment des rhoptries et exprimée durant les stades précoces du cycle parasitaire d’<em>Eimeria tenella</em>
+Auteur(s) : Adeline Ribeiro E Silva; Alix Sausset; Yves Le Vern; Fabrice Laurent; Sonia Lacroix-Lamandé; Anne Silvestre
+Source : N/A
+Lien : h

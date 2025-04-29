@@ -1,0 +1,4 @@
+﻿Titre : Architectures flexibles dynamiques de systèmes multiagents conversationnels
+Auteur(s) : Denis Jouvin; Salima Hassas
+Source : N/A
+Lien : h

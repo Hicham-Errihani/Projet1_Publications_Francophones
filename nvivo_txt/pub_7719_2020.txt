@@ -1,0 +1,4 @@
+﻿Titre : Analyse multimodale d'émotions utilisant l'audio, la vidéo, la transcription et des signaux physiologiques
+Auteur(s) : Soëlie Lerch; Patrice Bellot; Emmanuel Bruno; Elisabeth Murisasco
+Source : N/A
+Lien : h

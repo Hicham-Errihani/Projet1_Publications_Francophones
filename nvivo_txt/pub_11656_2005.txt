@@ -1,0 +1,4 @@
+﻿Titre : Cinétiques de transfert de soluté à une interface liquide- liquide.
+Auteur(s) : Jean-Pierre Simonin
+Source : N/A
+Lien : h

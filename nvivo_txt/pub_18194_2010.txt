@@ -1,0 +1,4 @@
+﻿Titre : Modélisation de propagation de fissure par un processus markovien déterministe par morceaux
+Auteur(s) : Romain Azaïs; Anne Gégout-Petit; Marie Touzet
+Source : N/A
+Lien : h

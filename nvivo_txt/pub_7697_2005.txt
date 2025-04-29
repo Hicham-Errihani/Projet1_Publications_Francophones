@@ -1,0 +1,4 @@
+﻿Titre : FESh++, une nouvelle approche orientée objet pour la simulation par éléments finis des problèmes multiphysiques
+Auteur(s) : Daniel Marceau; Patrice Goulet; Daniel Richard; Mario Fafard
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Etude prospective de la topologie MMC et du packaging 3D pour la réalisation d’un variateur de vitesse en moyenne tension
+Auteur(s) : Cong Martin Wu
+Source : N/A
+Lien : h

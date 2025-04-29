@@ -1,0 +1,4 @@
+﻿Titre : Système d’équations intégrales de frontière pour les dérivées partielles d’une fonction harmonique dans un ouvert du plan
+Auteur(s) : Alain Cimetière; Franck Delvare; Frédéric Pons
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Sur le calcul des variables internes cachées à partir des données expé- rimentales pour les matériaux à mémoire.
+Auteur(s) : Paul-William Gerbaud; Pierre Ladevèze; David Néron
+Source : N/A
+Lien : h

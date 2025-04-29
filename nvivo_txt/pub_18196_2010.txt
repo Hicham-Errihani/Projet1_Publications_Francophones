@@ -1,0 +1,4 @@
+﻿Titre : Régression inverse par tranches pour une population stratifiée
+Auteur(s) : Marie Chavent; Vanessa Kuentz; Benoit Liquet; Jérôme Saracco
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Exploitation efficace des architectures parallèles de type grappes de NUMA à l'aide de modèles hybrides de programmation
+Auteur(s) : Jérôme Clet-Ortega
+Source : N/A
+Lien : h

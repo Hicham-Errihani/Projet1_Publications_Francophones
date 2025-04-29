@@ -1,0 +1,4 @@
+﻿Titre : Développement de formulations éléments finis 3D en potentiel vecteur magnétique : application aux machines asynchrones en mouvement
+Auteur(s) : Pauline Ferrouillat
+Source : N/A
+Lien : h

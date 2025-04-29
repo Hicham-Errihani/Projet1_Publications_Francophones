@@ -1,0 +1,4 @@
+﻿Titre : Classification de pixels couleur par la méthode Mean Shift, basée sur un changement d'échelle.
+Auteur(s) : Jimmy Nagau
+Source : N/A
+Lien : h

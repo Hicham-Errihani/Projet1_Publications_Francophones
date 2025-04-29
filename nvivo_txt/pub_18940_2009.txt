@@ -1,0 +1,4 @@
+﻿Titre : Une inférence lexicographique à partir de bases de croyances partiellement préordonnées
+Auteur(s) : Safa Yahi; Mariette Serayet; Sylvain Lagrue; Odile Papini
+Source : R
+Lien : h

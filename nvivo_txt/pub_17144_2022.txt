@@ -1,0 +1,4 @@
+﻿Titre : Classification d’objets à partir de leurs signatures électromagnétiques en utilisant les réseaux neuronaux convolutifs
+Auteur(s) : Yasmina Zaky; Nicolas Fortino; Benoît Miramond; Jean-Yves Dauvignac
+Source : N/A
+Lien : h

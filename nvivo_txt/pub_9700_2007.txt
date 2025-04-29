@@ -1,0 +1,4 @@
+﻿Titre : La rationalité limitée par son contexte de mise en œuvre
+Auteur(s) : Francis Pavé
+Source : C
+Lien : h

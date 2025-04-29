@@ -1,0 +1,4 @@
+﻿Titre : Dynamiques d’évolution des luvisols suivant leurs histoires agricole et forestière
+Auteur(s) : Boris Brasseur; Hélène Horen; Jérôme Buridant
+Source : R
+Lien : h

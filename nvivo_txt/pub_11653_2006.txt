@@ -1,0 +1,4 @@
+﻿Titre : Détection des zones de fuite dans un milieu poreux saturé
+Auteur(s) : N. Hariga-Tlatli; Thouraya Nouri-Baranger; X. Escriva
+Source : N/A
+Lien : h

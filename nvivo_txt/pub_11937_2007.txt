@@ -1,0 +1,4 @@
+﻿Titre : Simulations numériques d'écoulements bidimensionnels non isothermes de fluides non-newtoniens avec prise en compte de la cristallisation induite
+Auteur(s) : Jean-Robert Clermont; Amine Ammar; Magdeleine Normandin; Adel Chine
+Source : N/A
+Lien : h

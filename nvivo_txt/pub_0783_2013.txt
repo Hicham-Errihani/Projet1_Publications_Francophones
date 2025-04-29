@@ -1,0 +1,4 @@
+﻿Titre : Modèles numériques pour l'évaluation des effets de l'incendie sur l'environnement atmosphérique Application des logiciels: FLUENT, ALOHA
+Auteur(s) : Samia Chettouh; Rachida Hamzi; Djamel Haddad; Noureddine Bourmada
+Source : N/A
+Lien : h

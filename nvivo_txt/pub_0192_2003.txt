@@ -1,0 +1,4 @@
+﻿Titre : Marchés dérivés et « trading » de volatilité
+Auteur(s) : Gunther Capelle-Blancard
+Source : R
+Lien : h

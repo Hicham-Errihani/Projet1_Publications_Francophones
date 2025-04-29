@@ -1,0 +1,4 @@
+﻿Titre : Modelisation de systemes de neurones
+Auteur(s) : M. Cottrell; J.P. Rospars; J. Vaillant; J.P. Vila
+Source : N/A
+Lien : h

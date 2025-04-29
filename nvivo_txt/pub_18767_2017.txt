@@ -1,0 +1,4 @@
+﻿Titre : AFF3CT : Un environnement de simulation pour le codage de canal
+Auteur(s) : Adrien Cassagne; Mathieu Leonardon; Olivier Hartmann; Thibaud Tonnellier; Guillaume Delbergue; Valentin Giraud; Camille Leroux; Romain Tajan; Bertrand Le Gal; Christophe Jego; Olivier Aumage; Denis Barthou
+Source : N/A
+Lien : h

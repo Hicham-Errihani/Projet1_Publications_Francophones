@@ -1,0 +1,4 @@
+﻿Titre : Tests d'indépendance en analyse multivariée et tests de normalité dans les modèles ARMA
+Auteur(s) : Pierre Lafaye de Micheaux
+Source : N/A
+Lien : h

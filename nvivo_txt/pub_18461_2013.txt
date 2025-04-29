@@ -1,0 +1,4 @@
+﻿Titre : CATHY : une plateforme expérimentale multi-échelles pour l'étude et la CAracTérisation d'HYdrates de gaz.
+Auteur(s) : Jean-Philippe Torre; Christophe Dicharry; Joseph Diaz; Daniel Broseta; Fabrice Guerton; Frédéric Plantier; Laurent Marlin; Eve Péré; Jean-Paul Grenet; Didier Haillot; Jean-Pierre Bedecarrats
+Source : N/A
+Lien : h

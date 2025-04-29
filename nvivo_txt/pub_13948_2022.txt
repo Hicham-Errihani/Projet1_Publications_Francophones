@@ -1,0 +1,4 @@
+﻿Titre : Une version faiblement intrusive de la méthode LATIN-PGD pour la résolution de problèmes non-linéaires paramétrés dans les codes industriels
+Auteur(s) : Ronan Scanff; David Néron; Pierre Ladevèze; Philippe Barabinot
+Source : N/A
+Lien : h

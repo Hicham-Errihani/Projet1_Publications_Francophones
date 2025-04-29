@@ -1,0 +1,4 @@
+﻿Titre : Résolution numérique des équations de transfert par une méthode de réduction a priori
+Auteur(s) : Nicolas Verdon; Cyrille Allery; Aziz Hamdouni
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Apprentissage d’un classifieur minimax pour données discrètes
+Auteur(s) : Cyprien Gilet; Susana Barbosa; Lionel Fillatre
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Problème d'ordonnancement dans Hadoop, ordonnancement sur des machines parallèles équivalentes et distribuées
+Auteur(s) : Aymen Jlassi; Patrick Martineau
+Source : N/A
+Lien : h

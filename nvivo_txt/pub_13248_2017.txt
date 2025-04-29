@@ -1,0 +1,4 @@
+﻿Titre : Some High Performance Data Analysis Challenges in CNRS and in France (CSIT-2017, Workshop on Supercomputing and Big Data: An Engine for Research and Innovation, Erevan, Armenia)
+Auteur(s) : Michel Daydé
+Source : N/A
+Lien : h

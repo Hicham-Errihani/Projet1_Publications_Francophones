@@ -1,0 +1,4 @@
+﻿Titre : Analyse circuit équivalent d'une métasurface passive en tant qu'absorbant électromagnétique
+Auteur(s) : Tanguy Lopez; Thomas Lepetit; Shah Nawaz Burokur
+Source : N/A
+Lien : h

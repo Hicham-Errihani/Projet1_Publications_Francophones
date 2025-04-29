@@ -1,0 +1,4 @@
+﻿Titre : Extension de portée de transmission à 20 et 40 Gb/s par modulation duale d'un laser modulateur intégré (D-EML)
+Auteur(s) : Khalill Kechaou; Thomas Anfray; Kamel Merghem; Christelle Aupetit-Berthelemot; Guy Aubin; Christophe Kazmierski; C. Jany; Philippe Chanclou; Didier Erasme
+Source : N/A
+Lien : h

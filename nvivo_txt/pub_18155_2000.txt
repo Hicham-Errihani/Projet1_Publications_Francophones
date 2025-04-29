@@ -1,0 +1,4 @@
+﻿Titre : Homogénéisation Numérique de Paramètres Pétrophysiques Pour des Maillages Déstructurés en Simulation de Réservoir
+Auteur(s) : Thierry Hontans
+Source : N/A
+Lien : h

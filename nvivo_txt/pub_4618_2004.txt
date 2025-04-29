@@ -1,0 +1,4 @@
+﻿Titre : Combiner le paradigme multi-agents et le raisonnement à partir d'expérience pour assister la réalisation collective de tâches
+Auteur(s) : Arnaud Stuber; Salima Hassas; Alain Mille
+Source : N/A
+Lien : h

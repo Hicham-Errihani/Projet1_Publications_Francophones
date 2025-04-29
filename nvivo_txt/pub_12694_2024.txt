@@ -1,0 +1,4 @@
+﻿Titre : Mise en place d’une chaîne de traitement pour l’analyse explicable de séries temporelles via l’Analyse Formelle de Concept par compression en chronogrammes
+Auteur(s) : Guillaume Savarit; Christophe Demko; Karell Bertet
+Source : N/A
+Lien : h

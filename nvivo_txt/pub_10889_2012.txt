@@ -1,0 +1,4 @@
+﻿Titre : Monadic Datalog Containment
+Auteur(s) : Michael Benedikt; Pierre Bourhis; Pierre Senellart
+Source : N/A
+Lien : h

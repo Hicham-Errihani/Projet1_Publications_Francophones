@@ -1,0 +1,4 @@
+﻿Titre : Un modèle d'érosion diffuse des sols : prise en compte de l'interaction gouttes – écoulement
+Auteur(s) : Amina Nouhou Bako
+Source : N/A
+Lien : h

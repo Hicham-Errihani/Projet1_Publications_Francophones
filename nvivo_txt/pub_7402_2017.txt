@@ -1,0 +1,4 @@
+﻿Titre : Simulation et analyse de robustesse d’un réseau de capteurs pour le monitoring cardiaque
+Auteur(s) : Yaël Kolasa
+Source : N/A
+Lien : h

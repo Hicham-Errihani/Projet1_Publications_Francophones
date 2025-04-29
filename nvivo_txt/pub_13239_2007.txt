@@ -1,0 +1,4 @@
+﻿Titre : Problématique des chercheurs en traitement automatique des langues des signes
+Auteur(s) : Christian Cuxac; Patrice Dalle
+Source : R
+Lien : h

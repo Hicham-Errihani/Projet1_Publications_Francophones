@@ -1,0 +1,4 @@
+﻿Titre : Structures symplectiques et de Poisson sur les champs en catégories
+Auteur(s) : Bertrand Toën
+Source : N/A
+Lien : h

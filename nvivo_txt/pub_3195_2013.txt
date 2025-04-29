@@ -1,0 +1,4 @@
+﻿Titre : Algorithme VBEM pour le processus de Cox log gaussien
+Auteur(s) : Julia J. Radoszycki; Nathalie Dubois Peyrard Peyrard; Régis Sabbadin
+Source : N/A
+Lien : h

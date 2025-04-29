@@ -1,0 +1,4 @@
+﻿Titre : Benchmark d'un modele pour sandwiches et multicouches, de type layer-wise en contrainte
+Auteur(s) : D.T. Nguyen; Jean-François Caron; M. d'Ottavio
+Source : N/A
+Lien : h

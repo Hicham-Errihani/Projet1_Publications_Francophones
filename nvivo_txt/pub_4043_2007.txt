@@ -1,0 +1,4 @@
+﻿Titre : Revêtements hyperelliptiques d-osculateurs et solitons elliptiques de la hiérarchie KdV
+Auteur(s) : Armando Treibich Kohn
+Source : C
+Lien : h

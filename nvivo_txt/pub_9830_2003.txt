@@ -1,0 +1,4 @@
+﻿Titre : Détermination des paramètres limitant la montée des MOSFETs sub-100nm
+Auteur(s) : M. Vanmackelberg; Sylvie Lepilliet; C. Raynaud; M. Dehan; Gilles Dambrine
+Source : N/A
+Lien : h

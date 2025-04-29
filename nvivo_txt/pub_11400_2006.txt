@@ -1,0 +1,4 @@
+﻿Titre : Influence des conditions de mouillage sur les déplacements quasi-statiques eau-air et l'évaporation en milieux poreux modèles. Application à la gestion de l'eau dans les piles à combustibles de type PEMFC.
+Auteur(s) : Olivier Chapuis
+Source : N/A
+Lien : h

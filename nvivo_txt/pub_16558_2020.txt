@@ -1,0 +1,4 @@
+﻿Titre : Analyse de données d'épidémie de malaria par un modèle de fragilité multivarié à corrélations spatiales
+Auteur(s) : Ajmal Oodally; Klara Goethals; Estelle Kuhn; Luc Duchateau
+Source : N/A
+Lien : h

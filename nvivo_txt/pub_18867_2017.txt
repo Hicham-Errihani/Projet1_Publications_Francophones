@@ -1,0 +1,4 @@
+﻿Titre : Transfert de couleurs basé superpixels
+Auteur(s) : Rémi Giraud; Vinh-Thong Ta; Nicolas Papadakis
+Source : N/A
+Lien : h

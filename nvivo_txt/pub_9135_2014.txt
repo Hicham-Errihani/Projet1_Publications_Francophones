@@ -1,0 +1,4 @@
+﻿Titre : A Branch-and-Bound Method for Box-Constrained Mixed-Integer Polynomial Optimization Using Separable Underestimators
+Auteur(s) : Claudia d'Ambrosio; Christoph Buchheim
+Source : N/A
+Lien : h

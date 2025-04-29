@@ -1,0 +1,4 @@
+﻿Titre : Reconstruction cone-beam à partir de projections avec troncations transverses
+Auteur(s) : Nicolas Gindrier
+Source : N/A
+Lien : h

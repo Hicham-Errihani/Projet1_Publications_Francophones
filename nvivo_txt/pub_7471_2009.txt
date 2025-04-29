@@ -1,0 +1,4 @@
+﻿Titre : Reconnaissance par blocs: une alternative aux descripteurs locaux
+Auteur(s) : Yannick Benezeth; Bruno Emile; Hélène Laurent; Adel Hafiane
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Une adaptation originale de la méthode de Shepard pour l'optimisation de stratifiés à fibres droites
+Auteur(s) : François-Xavier Irisarri; Mostafa M. Abdalla; Zafer Gürdal
+Source : N/A
+Lien : h

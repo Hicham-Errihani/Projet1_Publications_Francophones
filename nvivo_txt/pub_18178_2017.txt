@@ -1,0 +1,4 @@
+﻿Titre : Evaluation de l’importance des variables dans la méthode SIR (Sliced Inverse Regression)
+Auteur(s) : Jerôme Saracco; Ines Jlassi
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Etude et implantation de l'extraction de requêtes fréquentes dans les bases de données multidimensionnelles.
+Auteur(s) : Cheikh Tidiane Dieng
+Source : N/A
+Lien : h

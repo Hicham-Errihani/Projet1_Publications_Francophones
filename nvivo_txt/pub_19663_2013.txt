@@ -1,0 +1,4 @@
+﻿Titre : Modélisation par éléments discrets d´une structure maçonnée avec joints de mortier sous sollicitation dynamique - influence des lois de contact
+Auteur(s) : Marie Sauve
+Source : N/A
+Lien : h

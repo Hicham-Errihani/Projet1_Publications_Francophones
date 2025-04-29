@@ -1,0 +1,4 @@
+﻿Titre : Estimation du changement des cours du café et du cacao : Filtre HPMV, filtre de Kalman et MS-VAR
+Auteur(s) : Nathaniel Gbenro; Aka Jerôme Koffi
+Source : N/A
+Lien : h

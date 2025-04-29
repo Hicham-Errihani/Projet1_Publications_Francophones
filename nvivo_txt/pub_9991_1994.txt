@@ -1,0 +1,4 @@
+﻿Titre : Seqaid II, un logiciel de recherche pour l'enseignement de la génétique moléculaire
+Auteur(s) : Dominique Lenne; Jean-François Rodes; Naoum Salamé
+Source : R
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Détection automatique des repliements en interférométrie radar par analyse de cohérences de pente multi-décalages
+Auteur(s) : David Petit; Jean-Denis Durou; Frédéric Adragna
+Source : N/A
+Lien : h

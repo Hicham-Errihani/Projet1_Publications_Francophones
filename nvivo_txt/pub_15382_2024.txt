@@ -1,0 +1,4 @@
+﻿Titre : Réduction des répétitions dans la Traduction Automatique Neuronale
+Auteur(s) : Marko Avila; Anna Rebollo; Josep Crego
+Source : N/A
+Lien : h

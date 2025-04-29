@@ -1,0 +1,4 @@
+﻿Titre : Détection de bateaux dans des images satellitaires optiques panchromatiques
+Auteur(s) : Nadia Proia; Vincent Pagé
+Source : N/A
+Lien : h

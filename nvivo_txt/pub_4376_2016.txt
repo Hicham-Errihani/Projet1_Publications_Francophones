@@ -1,0 +1,4 @@
+﻿Titre : Synchronisation et auto-étalonnage de plusieurs caméras fixées sur un casque
+Auteur(s) : Thanh-Tin Nguyen; Maxime Lhuillier
+Source : N/A
+Lien : h

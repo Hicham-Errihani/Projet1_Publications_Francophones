@@ -1,0 +1,4 @@
+﻿Titre : Déployer un service d’annotation vidéo (avec Laurent Tessier)
+Auteur(s) : Michael Bourgatte
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Évaluation de l'influence des changements de géométrie sur les déformations de séchage d'un milieu poreux fissuré
+Auteur(s) : Xavier Chateau; Luc Dormieux; Yue Xu
+Source : C
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Géométrie convexe II Distances et mesures, approximation, comparaison et symétrisation
+Auteur(s) : Jean-Charles Pinoli
+Source : N/A
+Lien : h

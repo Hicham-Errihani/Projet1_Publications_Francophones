@@ -1,0 +1,4 @@
+﻿Titre : Une Méthode Galerkin Discontinue Nodale pour la Propagation Non Linéaire dOndes Elastiques
+Auteur(s) : Olivier Bou Matar; Yifeng Li; Vladimir Preobrazhensky; Philippe Pernod
+Source : N/A
+Lien : h

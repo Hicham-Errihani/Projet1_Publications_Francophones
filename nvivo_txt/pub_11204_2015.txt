@@ -1,0 +1,4 @@
+﻿Titre : Modélisation statistique pour la prédiction du pronostic de patients atteints d’un Accident Vasculaire Cérébral
+Auteur(s) : Brice Ozenne
+Source : N/A
+Lien : h

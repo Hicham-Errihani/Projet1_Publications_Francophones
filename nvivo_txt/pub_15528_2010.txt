@@ -1,0 +1,4 @@
+﻿Titre : Intégration d’un champ de normales en présence de discontinuités
+Auteur(s) : Jean-Denis Durou; Jean-François Aujol
+Source : N/A
+Lien : h

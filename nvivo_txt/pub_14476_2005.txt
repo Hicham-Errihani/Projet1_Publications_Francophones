@@ -1,0 +1,4 @@
+﻿Titre : Modélisation objet de comportements appliquée aux logiciels de commande
+Auteur(s) : Laurent Thiry; Jean-Marc Perronne; Bernard Thirion
+Source : J
+Lien : h

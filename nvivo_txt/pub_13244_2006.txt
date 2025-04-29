@@ -1,0 +1,4 @@
+﻿Titre : Commande d'un minidrone à hélice carénée : de la stabilisation dans le vent à la navigation autonome
+Auteur(s) : Jean-Michel Pflimlin
+Source : N/A
+Lien : h

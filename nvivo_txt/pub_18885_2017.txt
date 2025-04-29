@@ -1,0 +1,4 @@
+﻿Titre : Impact de la réplication sur la latence dans les bases de données distribuées et application à Cassandra
+Auteur(s) : Noël Gillet; Nicolas Hanusse; Frédéric Lalanne
+Source : N/A
+Lien : h

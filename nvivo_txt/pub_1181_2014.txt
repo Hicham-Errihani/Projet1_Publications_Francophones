@@ -1,0 +1,4 @@
+﻿Titre : Modélisation à haut niveau d'abstraction de l'intégrité du signal dans les bus de communication
+Auteur(s) : Ruomin Wang
+Source : N/A
+Lien : h

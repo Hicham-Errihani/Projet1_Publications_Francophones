@@ -1,0 +1,4 @@
+﻿Titre : Une famille de règles d'élimination de variables pour les CSP binaires basées sur BTP
+Auteur(s) : Achref El Mouelhi
+Source : N/A
+Lien : h

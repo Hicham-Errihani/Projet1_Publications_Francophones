@@ -1,0 +1,4 @@
+﻿Titre : Simulation numérique directe de l'influence de la forme aval d'une plaque séparatrice sur une couche de mélange
+Auteur(s) : S. Laizet; Eric Lamballais
+Source : C
+Lien : h

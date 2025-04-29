@@ -1,0 +1,4 @@
+﻿Titre : Une méthode pour caractériser l'ensemble des séquences optimales pour quelques problèmes d'ordonnancement
+Auteur(s) : Jean-Charles Billaut; Pierre Lopez; Labib Takouti
+Source : N/A
+Lien : h

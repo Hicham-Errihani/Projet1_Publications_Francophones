@@ -1,0 +1,4 @@
+﻿Titre : Système de localisation tridimentionnelle pour le guidage d'un robot de traite
+Auteur(s) : G. Collewet; Christophe Collewet; P. Marchal
+Source : J
+Lien : h

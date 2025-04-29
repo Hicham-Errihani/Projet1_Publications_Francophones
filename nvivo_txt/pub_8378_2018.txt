@@ -1,0 +1,4 @@
+﻿Titre : Categorical Models for BigData
+Auteur(s) : Laurent Thiry; Heng Zhao; Michel Hassenforder
+Source : N/A
+Lien : h

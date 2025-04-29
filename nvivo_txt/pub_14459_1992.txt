@@ -1,0 +1,4 @@
+﻿Titre : Expression d'un modèle de tâches à l'aide d'une représentation par objets,
+Auteur(s) : Jérôme Gensel; Pierre Girard
+Source : N/A
+Lien : h

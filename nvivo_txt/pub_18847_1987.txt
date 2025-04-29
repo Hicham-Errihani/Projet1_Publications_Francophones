@@ -1,0 +1,4 @@
+﻿Titre : Modélisation et conduite automatique d'un trieur de particules
+Auteur(s) : Daniel Parel; Alain Richard; José Ragot; Jean Mailhac
+Source : N/A
+Lien : h

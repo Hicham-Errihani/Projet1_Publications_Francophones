@@ -1,0 +1,4 @@
+﻿Titre : Mosaïque de Poisson-Voronoi sur une surface
+Auteur(s) : Pierre Calka; Aurélie Chapron; Nathanaël Enriquez
+Source : N/A
+Lien : h

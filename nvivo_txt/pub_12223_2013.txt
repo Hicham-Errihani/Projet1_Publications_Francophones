@@ -1,0 +1,4 @@
+﻿Titre : Détection du changement régional par rééchantillonnage de séries chronologiques : application aux précipitations dans l’espace rhéno-mosan
+Auteur(s) : Gilles Drogue; Didier Francois
+Source : C
+Lien : h

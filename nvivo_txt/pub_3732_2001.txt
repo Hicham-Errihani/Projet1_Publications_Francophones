@@ -1,0 +1,4 @@
+﻿Titre : AEE : un projet pour la conception des logiciels embarqués dans l'automobile
+Auteur(s) : Françoise Simonot-Lion
+Source : N/A
+Lien : h

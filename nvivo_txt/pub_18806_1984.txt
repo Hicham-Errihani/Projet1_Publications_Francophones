@@ -1,0 +1,4 @@
+﻿Titre : Identification des paramètres d'une classe de systèmes linéaires cascades en présence de mesures bruitées
+Auteur(s) : José Ragot; Jean-Claude Brepson; Gilbert Clausse
+Source : A
+Lien : h

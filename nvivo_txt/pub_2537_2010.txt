@@ -1,0 +1,4 @@
+﻿Titre : Reconstruction d'haplotypes dans les pedigrees complexes d'animaux d'élevage pour des marqueurs bi-alléliques
+Auteur(s) : Aurélie Favier
+Source : N/A
+Lien : h

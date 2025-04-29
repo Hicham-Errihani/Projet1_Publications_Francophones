@@ -1,0 +1,4 @@
+﻿Titre : Méthode automatique à base de machine d’apprentissage pour le dépistage de la Dégénérescence Maculaire Liée à l’Age (DMLA) à partir des images captées par supports mobiles
+Auteur(s) : Sofien Bensayadia
+Source : N/A
+Lien : h

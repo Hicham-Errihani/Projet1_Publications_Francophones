@@ -1,0 +1,4 @@
+﻿Titre : Application de la technique du SCIDAR généralisé aux étoiles simples
+Auteur(s) : Abdelfettah Habib; Jean Vernin; Zouhair Benkhaldoun
+Source : C
+Lien : h

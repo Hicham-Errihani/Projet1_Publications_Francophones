@@ -1,0 +1,4 @@
+﻿Titre : Intégration des équipements électroniques dans la modélisation de l'architecture électrique des véhicules automobiles - Application à la prédiction de compatibilité électromagnétique dans les phases amont de la conception
+Auteur(s) : S. Egot
+Source : N/A
+Lien : h

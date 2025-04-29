@@ -1,0 +1,4 @@
+﻿Titre : Apprentissage d’un classifieur Minimax-Regret pour données hétérogènes et priors incertains
+Auteur(s) : Cyprien Gilet; Susana Barbosa; Lionel Fillatre
+Source : N/A
+Lien : h

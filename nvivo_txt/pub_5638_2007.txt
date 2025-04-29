@@ -1,0 +1,4 @@
+﻿Titre : Reconstruction photométrique d'une surface rugueuse à partir d'une seule image
+Auteur(s) : David Helbert; Benjamin Bringier; Majdi Khoudeir
+Source : N/A
+Lien : h

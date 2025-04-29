@@ -1,0 +1,4 @@
+﻿Titre : Mesures de bruit et d'impédance aux bornes d'un condensateur à diélectrique ferroélectrique maintenu en équilibre en présence de champs électriques continus
+Auteur(s) : M. Jannin
+Source : J
+Lien : h

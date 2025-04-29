@@ -1,0 +1,4 @@
+﻿Titre : Sémantique fonctionnelle pour les QBF non-prénexes
+Auteur(s) : Igor Stéphan
+Source : N/A
+Lien : h

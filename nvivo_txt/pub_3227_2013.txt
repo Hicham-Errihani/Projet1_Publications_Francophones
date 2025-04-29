@@ -1,0 +1,4 @@
+﻿Titre : Architectures massivement parallèles et vision artificielle bas-niveau
+Auteur(s) : Aurélien Plyer
+Source : N/A
+Lien : h

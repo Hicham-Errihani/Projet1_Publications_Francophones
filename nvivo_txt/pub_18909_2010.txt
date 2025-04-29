@@ -1,0 +1,4 @@
+﻿Titre : Méthodes d'estimation récursive pour la prévision de la consommation d'électricité. Lot 3: La prévision de courbes de charge par estimation fonctionnelle non paramétrique
+Auteur(s) : Bernard Bercu; Francois Caron; Arijit Das; Proïa Frédéric
+Source : N/A
+Lien : h

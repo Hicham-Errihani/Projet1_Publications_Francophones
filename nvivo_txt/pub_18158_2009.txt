@@ -1,0 +1,4 @@
+﻿Titre : Estimation des paramètres du modèle de Mallows-Bradley-Terry par le maximum de vraisemblance
+Auteur(s) : Simplice Dossou-Gbété; Dominique Lafon; Amadou Sawadogo
+Source : N/A
+Lien : h

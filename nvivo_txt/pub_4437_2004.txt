@@ -1,0 +1,4 @@
+﻿Titre : Une nouvelle approche de modélisation du langage par des réseaux Bayésiens dynamiques
+Auteur(s) : Murat Deviren; Khalid Daoudi; Kamel Smaïli
+Source : N/A
+Lien : h

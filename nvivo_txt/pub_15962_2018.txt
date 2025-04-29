@@ -1,0 +1,4 @@
+﻿Titre : Mesurer la dissimilarité au niveau d'une partition floue
+Auteur(s) : Grégory Smits; Olivier Pivert; Toan Ngoc Duong
+Source : N/A
+Lien : h

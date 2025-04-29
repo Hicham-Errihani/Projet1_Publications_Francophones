@@ -1,0 +1,4 @@
+﻿Titre : Classification automatique de données temporelles en classes ordonnées
+Auteur(s) : Faicel Chamroukhi; Allou Samé; Patrice Aknin; Gérard Govaert
+Source : N/A
+Lien : h

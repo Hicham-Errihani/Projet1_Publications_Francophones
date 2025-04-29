@@ -1,0 +1,4 @@
+﻿Titre : Modélisation et calcul numérique des collisions de gouttes en écoulements laminaires et turbulents
+Auteur(s) : Franck Pigeonneau
+Source : N/A
+Lien : h

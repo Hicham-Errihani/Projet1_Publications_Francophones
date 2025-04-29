@@ -1,0 +1,4 @@
+﻿Titre : Restitution du legs d'une somme d'argent avec clause de substitution lorsque les fonds ont été employés pour le paiement partiel du prix d'un immeuble et à défaut de cantonnement
+Auteur(s) : Michel Grimaldi
+Source : R
+Lien : h

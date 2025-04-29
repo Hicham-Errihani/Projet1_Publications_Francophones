@@ -1,0 +1,4 @@
+﻿Titre : Un modèle de métadonnées pour gérer les évolutions de données géographiques hétérogènes et distribuées
+Auteur(s) : Christelle Pierkot
+Source : L
+Lien : h

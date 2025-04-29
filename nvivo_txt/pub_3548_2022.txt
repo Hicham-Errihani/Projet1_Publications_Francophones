@@ -1,0 +1,4 @@
+﻿Titre : Système de traduction automatique neuronale français-mongol (Historique, mise en place et évaluations)
+Auteur(s) : Shuai Gao
+Source : N/A
+Lien : h

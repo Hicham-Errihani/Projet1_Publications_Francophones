@@ -1,0 +1,4 @@
+﻿Titre : Modélisation Analytique Modulaire du Convertisseur Modulaire Multiniveaux (MMC)
+Auteur(s) : Grégoire Le Goff; Maurice Fadel; Marc Bodson
+Source : N/A
+Lien : h

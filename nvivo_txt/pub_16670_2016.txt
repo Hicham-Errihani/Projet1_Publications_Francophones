@@ -1,0 +1,4 @@
+﻿Titre : Onduleur à forte intégration utilisant des semi-conducteurs à grand gap
+Auteur(s) : Guillaume Regnat
+Source : N/A
+Lien : h

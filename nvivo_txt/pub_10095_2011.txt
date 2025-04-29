@@ -1,0 +1,4 @@
+﻿Titre : Définition d'une source de chaleur représentant l'apport de chaleur pour le soudage TIG
+Auteur(s) : François Pichot; Yann Danis; Eric Lacoste; Michel Danis
+Source : N/A
+Lien : h

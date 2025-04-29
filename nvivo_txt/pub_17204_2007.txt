@@ -1,0 +1,4 @@
+﻿Titre : Optimisation de la position d'un nageur par résolution numérique des équations de Navier-Stokes avec un modèle k-epsilon standard
+Auteur(s) : Hanane Zaïdi; S. Fohanno; R. Taïar; Guillaume Polidori
+Source : N/A
+Lien : h

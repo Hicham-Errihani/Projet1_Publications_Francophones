@@ -1,0 +1,4 @@
+﻿Titre : Ordonnancement des flux avioniques AFDX sur un support 802.11e HCCA
+Auteur(s) : Bafing-Cyprien Sambou; Fabrice Peyrard; Christian Fraboul
+Source : N/A
+Lien : h

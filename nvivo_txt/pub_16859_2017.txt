@@ -1,0 +1,4 @@
+﻿Titre : Classification automatique d'images de propergol solide en combustion par utilisation de réseaux de neurones convolutifs
+Auteur(s) : Matthieu Nugue; Robin W. Devillers; Adrien Chan Hon Tong; Guy Le Besnerais; Julien Pichillou
+Source : N/A
+Lien : h

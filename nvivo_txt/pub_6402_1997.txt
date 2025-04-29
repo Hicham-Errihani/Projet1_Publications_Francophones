@@ -1,0 +1,4 @@
+﻿Titre : Le contrat didactique implicite à travers les logiciels de problèmes d'arithmétique
+Auteur(s) : Marc Weisser
+Source : R
+Lien : h

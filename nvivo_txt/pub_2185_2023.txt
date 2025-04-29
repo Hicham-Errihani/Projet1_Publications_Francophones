@@ -1,0 +1,4 @@
+﻿Titre : Structures combinatoires pour la modélisation géométrique à base topologique
+Auteur(s) : Samuel Peltier
+Source : N/A
+Lien : h

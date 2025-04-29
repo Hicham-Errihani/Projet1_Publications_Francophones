@@ -1,0 +1,4 @@
+﻿Titre : Vers une cryptographie en boîte blanche
+Auteur(s) : Arnaud Casteigts; Agathe Houzelot
+Source : I
+Lien : h

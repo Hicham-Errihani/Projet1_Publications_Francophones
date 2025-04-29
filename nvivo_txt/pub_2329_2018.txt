@@ -1,0 +1,4 @@
+﻿Titre : Performances d'une machine synchrone double étoile en présence d'un défaut de court-circuit d'un IGBT
+Auteur(s) : Abed Al Kader Al Asmar; Georges Barakat; Ferhat Chabour
+Source : N/A
+Lien : h

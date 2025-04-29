@@ -1,0 +1,4 @@
+﻿Titre : Chapitre 7. Simulation à base d'agents des systèmes de coordination et de planification des réseaux d'entreprise
+Auteur(s) : Thibaud Monteiro; Didier Anciaux; Sophie d'Amours; Bernard Espinasse; Alain Ferrarini; Olivier Labarthe; B. Montreuil; Daniel Roy
+Source : N/A
+Lien : h

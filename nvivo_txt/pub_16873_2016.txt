@@ -1,0 +1,4 @@
+﻿Titre : Simulations Multiphysiques CEM-Thermique de Torons de Câbles.
+Auteur(s) : Florian Mahiddini; Michael Ridel; Philippe Reulet; David Donjat; Pierre Millan
+Source : N/A
+Lien : h

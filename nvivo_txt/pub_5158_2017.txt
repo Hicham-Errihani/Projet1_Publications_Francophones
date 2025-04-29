@@ -1,0 +1,4 @@
+﻿Titre : Planification tactique de chaîne d'approvisionnement en boucle fermée : modélisation, résolution, évaluation
+Auteur(s) : Pierre Desport
+Source : N/A
+Lien : h

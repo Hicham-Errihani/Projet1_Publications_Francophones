@@ -1,0 +1,4 @@
+﻿Titre : Stabilité du profil à l'explosion pour les équations du type $u\sb t=\Delta u+\vert u\vert \sp {p-1}u$.
+Auteur(s) : Frank Merle; Hatem Zaag
+Source : C
+Lien : h

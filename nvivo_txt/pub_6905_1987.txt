@@ -1,0 +1,4 @@
+﻿Titre : Echantillonnage et repartition spatiale
+Auteur(s) : D. Debouzie; J.B. Denis; J.P. Rospars
+Source : C
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Optimisation des méthodes algorithmiques en inférence bayésienne. Modélisation dynamique de la transmission d'une infection au sein d'une population hétérogène
+Auteur(s) : Michèle Beau-Faller; Hélène Blons; Caroline Domerg; Dorota Gajda; Nicolas Richard; Fabienne Escande; Jérôme Solassol; Marc Denis; Anne Cayre; Isabelle Nanni-Metellus; Sylviane Olschwang; Sarab Lizard; Fabienne Piard; Jean-Luc Pretet; Florence de Fraipont; Ivan Bièche; Patricia de Cremoux; Isabelle Rouquette; Pierre-Paul Bringuier; Jean Mosser; Michèle Legrain; Anne-Claire Voegeli; Patrick Saulnier; Franck Morin; Jean-Pierre Pignon; Gérard Zalcman; Jacques Cadranel
+Source : J
+Lien : h

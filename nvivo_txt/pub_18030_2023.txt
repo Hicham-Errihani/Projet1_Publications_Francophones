@@ -1,0 +1,4 @@
+﻿Titre : Détecteur de Rao robuste pour un sonar à croix de Mills
+Auteur(s) : Olivier Lerda; Ammar Mian; Guillaume Ginolhac; Jean-Philippe Ovarlez
+Source : N/A
+Lien : h

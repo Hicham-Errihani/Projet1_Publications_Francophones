@@ -1,0 +1,4 @@
+﻿Titre : Une méthode Navier-Stokes parabolisée pour le régime faiblement supersonique
+Auteur(s) : L. Priol
+Source : N/A
+Lien : h

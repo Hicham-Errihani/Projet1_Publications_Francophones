@@ -1,0 +1,4 @@
+﻿Titre : Un inventaire des contributions des ingénieurs aux pratiques managériales
+Auteur(s) : Matthieu Mandard
+Source : R
+Lien : h

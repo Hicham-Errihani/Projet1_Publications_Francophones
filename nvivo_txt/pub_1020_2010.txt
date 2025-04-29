@@ -1,0 +1,4 @@
+﻿Titre : Champs de Markov Cachés 2D à composantes séparables, application à l'extraction de structures de journaux anciens
+Auteur(s) : David Hébert; Thierry Paquet; Stéphane Nicolas
+Source : N/A
+Lien : h

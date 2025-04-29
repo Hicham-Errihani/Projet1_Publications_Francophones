@@ -1,0 +1,4 @@
+﻿Titre : Les strates ne possèdent pas de variétés complètes
+Auteur(s) : Quentin Gendron
+Source : C
+Lien : h

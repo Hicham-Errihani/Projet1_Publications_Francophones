@@ -1,0 +1,4 @@
+﻿Titre : Éléments pour une étude du taux de profit de l'économie française entre 1896 et 2018
+Auteur(s) : Rémy Herrera; Zhiming Long; Weinan Ding
+Source : R
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Comparaison de deux observateurs non linéaires pour la commande sans capteur de la MSAP : validation expérimentale
+Auteur(s) : Imen Ben Mohamed
+Source : N/A
+Lien : h

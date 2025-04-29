@@ -1,0 +1,4 @@
+﻿Titre : Supervision des réseaux et services pair à pair : application à la plate-forme JXTA
+Auteur(s) : Guillaume Doyen; Emmanuel Nataf; Olivier Festor
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Régression bayésienne avec contraintes de régularité et de forme
+Auteur(s) : Christophe Abraham
+Source : N/A
+Lien : h

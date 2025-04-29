@@ -1,0 +1,4 @@
+﻿Titre : Sur la méthode des éléments finis étendus appliquée aux problèmes de structures dépendant du temps
+Auteur(s) : Anthony Gravouil; Julien Réthoré; Alain Combescure
+Source : N/A
+Lien : h

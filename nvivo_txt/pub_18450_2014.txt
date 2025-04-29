@@ -1,0 +1,4 @@
+﻿Titre : Approche statistique pour le filtrage terminologique des occurrences de candidats termes en texte intégral
+Auteur(s) : José Camacho-Collados; Mokhtar Boumedienne Billami; Evelyne Jacquey; Laurence Kister
+Source : N/A
+Lien : h

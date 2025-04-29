@@ -1,0 +1,4 @@
+﻿Titre : Diagnostic des systèmes linéaires
+Auteur(s) : Didier Maquin; José Ragot
+Source : N/A
+Lien : h

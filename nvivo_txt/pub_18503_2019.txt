@@ -1,0 +1,4 @@
+﻿Titre : Approximation SEM-DG pour les problèmes d'ondes elasto-acoustiques
+Auteur(s) : Hélène Barucq; Henri Calandra; Aurélien Citrain; Julien Diaz; Christian Gout
+Source : N/A
+Lien : h

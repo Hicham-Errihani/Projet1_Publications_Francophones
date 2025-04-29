@@ -1,0 +1,4 @@
+﻿Titre : Modélisation d'un système d'information de flux multimédia assurant l'interopérabilité des capteurs sans fils mobiles
+Auteur(s) : Makhlouf Derdour; Nacira Ghoualmi-Zine; Marc Dalmau; Philippe Roose
+Source : N/A
+Lien : h

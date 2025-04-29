@@ -1,0 +1,4 @@
+﻿Titre : Vers une remise en géométrie automatique des prises de vue aériennes historiques photogrammétriques
+Auteur(s) : Arnaud Le Bris; Sébastien Giordano; Clément Mallet
+Source : R
+Lien : h

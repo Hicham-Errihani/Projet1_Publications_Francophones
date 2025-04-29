@@ -1,0 +1,4 @@
+﻿Titre : Représentation et simulation de projets de construction entachés d’incertitudes en utilisant des modèles relationnels probabilistes
+Auteur(s) : Thi Thuy Phuong Tran
+Source : N/A
+Lien : h

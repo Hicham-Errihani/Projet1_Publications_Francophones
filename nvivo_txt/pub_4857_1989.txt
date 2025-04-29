@@ -1,0 +1,4 @@
+﻿Titre : Etude des performances d'un prototype sonde capacitive pour la mesure in situ de la teneur en eau du sol
+Auteur(s) : J.C. Gaudu
+Source : N/A
+Lien : h

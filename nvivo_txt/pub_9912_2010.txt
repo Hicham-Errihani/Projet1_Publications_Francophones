@@ -1,0 +1,4 @@
+﻿Titre : Approche bayésienne de l'inversion en imagerie micro-onde 3D
+Auteur(s) : H Ayasso; Bernard Duchêne; Ali Mohammad-Djafari
+Source : N/A
+Lien : h

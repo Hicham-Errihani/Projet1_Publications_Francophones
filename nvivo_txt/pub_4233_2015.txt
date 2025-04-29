@@ -1,0 +1,4 @@
+﻿Titre : Comment développer un programme de simulation, dans quelles structures et à quel coût ?
+Auteur(s) : Malik Boukerrou; Arnaud Winer; Jean-Bernard Gouyon
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Interpolation avec contraintes sur des ensembles finis du disque
+Auteur(s) : Rachid Zarouf
+Source : C
+Lien : h

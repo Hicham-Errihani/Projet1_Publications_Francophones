@@ -1,0 +1,4 @@
+﻿Titre : Un modèle Transformer Génératif Pré-entrainé pour le ______ français
+Auteur(s) : Antoine Simoulin; Benoit Crabbé
+Source : N/A
+Lien : h

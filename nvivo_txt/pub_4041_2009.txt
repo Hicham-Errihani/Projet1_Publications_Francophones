@@ -1,0 +1,4 @@
+﻿Titre : Une extension du processus de Yule pour la modélisation stochastique des événements récurrents : application aux défaillances de canalisations d'eau sous pression
+Auteur(s) : Yves Le Gat
+Source : N/A
+Lien : h

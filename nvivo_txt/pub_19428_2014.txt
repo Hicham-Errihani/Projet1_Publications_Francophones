@@ -1,0 +1,4 @@
+﻿Titre : Conduction thermique en régime sub-diffusif
+Auteur(s) : Pierre-Olivier Chapuis
+Source : N/A
+Lien : h

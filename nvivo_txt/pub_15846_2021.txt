@@ -1,0 +1,4 @@
+﻿Titre : Redistribution des états de contrainte dans l'alliage germanium-étain pour des applications laser CMOS-compatibles à température ambiante et accordables en longueur d'onde
+Auteur(s) : Jérémie Chretien
+Source : N/A
+Lien : h

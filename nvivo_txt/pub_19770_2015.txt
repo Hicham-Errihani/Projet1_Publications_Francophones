@@ -1,0 +1,4 @@
+﻿Titre : Authentification d'un utilisateur à partir de ses traces d’interaction
+Auteur(s) : Fatma Derbel; Pierre-Antoine Champin; Amélie Cordier; Damien Munch
+Source : N/A
+Lien : h

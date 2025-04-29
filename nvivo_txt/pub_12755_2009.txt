@@ -1,0 +1,4 @@
+﻿Titre : Beat-Marker Location Using a Probabilistic Framework and Linear Discriminant Analysis
+Auteur(s) : Geoffroy Peeters
+Source : N/A
+Lien : h

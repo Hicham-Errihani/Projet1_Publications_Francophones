@@ -1,0 +1,4 @@
+﻿Titre : Une approche de conception de systèmes multi-agents dédiés à la gestion des connaissances
+Auteur(s) : Davy Monticolo; Alex Gabriel; Pedro Chavez Barrios
+Source : R
+Lien : h

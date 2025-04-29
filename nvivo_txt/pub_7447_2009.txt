@@ -1,0 +1,4 @@
+﻿Titre : Un principe mixte pour le problème de contact avec frottement de Coulomb
+Auteur(s) : Anh Le Van; Tai Nguyen
+Source : N/A
+Lien : h

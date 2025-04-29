@@ -1,0 +1,4 @@
+﻿Titre : Approche de résolution d'un problème industriel de lot-sizing avec réglages dépendant de la séquence
+Auteur(s) : François Larroche; Odile Bellenguez; Guillaume Massonnet
+Source : N/A
+Lien : h

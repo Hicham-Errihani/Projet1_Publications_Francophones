@@ -1,0 +1,4 @@
+﻿Titre : Développement de stratégies de commandes pour des systèmes décrits par des équations aux dérivées partielles paraboliques non linéaires
+Auteur(s) : Thérèse Azar
+Source : N/A
+Lien : h

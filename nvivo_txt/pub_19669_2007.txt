@@ -1,0 +1,4 @@
+﻿Titre : Construction d'images miniatures avec recadrage automatique basée sur un modèle perceptuel bio-inspiré
+Auteur(s) : Olivier Le Meur; Patrick Le Callet; Dominique Barba
+Source : T
+Lien : h

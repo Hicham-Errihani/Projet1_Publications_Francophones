@@ -1,0 +1,4 @@
+﻿Titre : Détermination d'un MOS et calcul d'une tache urbaine à partir de la BD TOPO® de l'IGN : étude expérimentale
+Auteur(s) : Philippe Loriot; Magali Di Salvo
+Source : N/A
+Lien : h

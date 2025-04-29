@@ -1,0 +1,4 @@
+﻿Titre : Réflexions sur la mise en place d'une vérité terrain pour la segmentation de maillages polygonaux 3D en parties significatives
+Auteur(s) : Sébastien Delest; Romuald Boné; Hubert Cardot
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Mise en ligne de ProLMF, version 2.2, au format XML LMF (norme ISO-24613:2008) de la base de données Prolexbase sur le site du CNRTL
+Auteur(s) : Denis Maurel; Béatrice Bouchou Markhoff; Agata Savary
+Source : N/A
+Lien : h

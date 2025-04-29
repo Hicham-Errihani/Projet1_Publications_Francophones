@@ -1,0 +1,4 @@
+﻿Titre : Analyse des instabilités dans l’écoulement de jet de paroi à nombre de Reynolds modéré.
+Auteur(s) : Mohamed Ali Knani; Mekki Bouznif; Taieb Lili
+Source : N/A
+Lien : h

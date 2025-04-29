@@ -1,0 +1,4 @@
+﻿Titre : Contrôle d'écoulements par décharges de type DBD : application à la transition
+Auteur(s) : Vincent Boucinha; Pierre Magnier; Régine Weber; Annie Leroy-Chesneau; Binjie Dong; Romain Joussot; Dunpin Hong
+Source : N/A
+Lien : h

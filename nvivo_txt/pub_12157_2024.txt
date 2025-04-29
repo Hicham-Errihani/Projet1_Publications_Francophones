@@ -1,0 +1,4 @@
+﻿Titre : Automatisation de l'analyse de vidéos comportementales en écotoxicologie : solutions basées sur les logiciels libres
+Auteur(s) : Quentin Petitjean; Raphaël Royauté
+Source : N/A
+Lien : h

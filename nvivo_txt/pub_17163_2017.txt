@@ -1,0 +1,4 @@
+﻿Titre : Modélisation d'un accélérateur linéaire clinique en vue de l'exploitation d'un détecteur à transmission dédié au contrôle qualité en radiothérapie
+Auteur(s) : Robin Fabbro
+Source : N/A
+Lien : h

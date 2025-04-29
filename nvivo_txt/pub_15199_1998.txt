@@ -1,0 +1,4 @@
+﻿Titre : De l'usage interne des points ISA : pertinence locale versus cohérence globale
+Auteur(s) : Didier Vinot
+Source : G
+Lien : h

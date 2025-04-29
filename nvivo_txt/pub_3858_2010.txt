@@ -1,0 +1,4 @@
+﻿Titre : Détection de l'usure des outils de coupe en fraisage par vitesse instantanée
+Auteur(s) : François Girardin; Didier Rémond; Jean Francois Rigal
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Impact de perturbations internes sur l'entraînement de réseaux profonds pour la détection d'évènements sonores
+Auteur(s) : David Perera; Slim Essid; Gael Richard
+Source : N/A
+Lien : h

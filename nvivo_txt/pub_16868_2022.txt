@@ -1,0 +1,4 @@
+﻿Titre : Recherche incomplète aidée par une base de conflits
+Auteur(s) : Trong-Hieu Tran; Cédric Pralet; Hélène Fargier
+Source : N/A
+Lien : h

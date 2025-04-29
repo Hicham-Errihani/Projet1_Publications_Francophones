@@ -1,0 +1,4 @@
+﻿Titre : Etude de la distribution des temps de sejour, des performances thermiques et de la consommation de puissance d'echangeurs de chaleur a surface raclee traitant des produits non-newtoniens
+Auteur(s) : Thierry Bénézech
+Source : N/A
+Lien : h

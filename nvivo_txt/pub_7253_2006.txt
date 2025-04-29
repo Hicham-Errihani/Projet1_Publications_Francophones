@@ -1,0 +1,4 @@
+﻿Titre : Utilisation conjointe de la STFT et de la TF2D pour l'identification de modes de Lamb
+Auteur(s) : Faysal El Youbi; Sébastien Grondel; Emmanuel Moulin; Jamal Assaad
+Source : N/A
+Lien : h

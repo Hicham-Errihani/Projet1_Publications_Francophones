@@ -1,0 +1,4 @@
+﻿Titre : Modélisation stochastique de la maintenance d'une ligne de métro
+Auteur(s) : J.J. Daudin; E. Pommiès; P. Varrall; J. Becquet
+Source : R
+Lien : h

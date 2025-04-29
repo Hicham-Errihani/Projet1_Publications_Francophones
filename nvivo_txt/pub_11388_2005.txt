@@ -1,0 +1,4 @@
+﻿Titre : Analyse des écoulements transitoires dans les systèmes d'injection directe essence
+Auteur(s) : Guillaume Delay
+Source : N/A
+Lien : h

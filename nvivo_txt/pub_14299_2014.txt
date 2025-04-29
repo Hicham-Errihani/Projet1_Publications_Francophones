@@ -1,0 +1,4 @@
+﻿Titre : Étude et évaluation des politiques d'ordonnancement temps réel multiprocesseur
+Auteur(s) : Maxime Chéramy
+Source : N/A
+Lien : h

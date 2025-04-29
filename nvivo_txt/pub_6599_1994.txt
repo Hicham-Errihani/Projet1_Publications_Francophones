@@ -1,0 +1,4 @@
+﻿Titre : Identification d'une proteine dont l'association avec le motif CDEI, GTCACATG, serait necessaire a la segmentation de l'embryon de souris
+Auteur(s) : A. Blangy
+Source : N/A
+Lien : h

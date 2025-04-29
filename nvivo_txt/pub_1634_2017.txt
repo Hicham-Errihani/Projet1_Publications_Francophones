@@ -1,0 +1,4 @@
+﻿Titre : Persistance d'un nombre
+Auteur(s) : Mohamed Sghiar
+Source : I
+Lien : h

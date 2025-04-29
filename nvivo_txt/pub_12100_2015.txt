@@ -1,0 +1,4 @@
+﻿Titre : Kriging Cross-Validation Task
+Auteur(s) : Fabien Ors
+Source : N/A
+Lien : h

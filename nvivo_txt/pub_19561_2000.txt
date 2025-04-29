@@ -1,0 +1,4 @@
+﻿Titre : Implantation de la couche algébrique à base de règles de réécriture dans le nouvel APLUSIX
+Auteur(s) : Denis Bouhineau
+Source : N/A
+Lien : h

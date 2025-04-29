@@ -1,0 +1,4 @@
+﻿Titre : Modélisation et extraction de la sémantique des trajectoires à partir de données multi-capteurs
+Auteur(s) : Frédérick Bisone; Laurent Etienne; Thomas Devogele
+Source : R
+Lien : h

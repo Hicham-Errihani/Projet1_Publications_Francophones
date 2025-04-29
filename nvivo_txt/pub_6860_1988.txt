@@ -1,0 +1,4 @@
+﻿Titre : Dynamique racinaire et interception des elements mineraux par les racines.
+Auteur(s) : D. Picard
+Source : C
+Lien : h

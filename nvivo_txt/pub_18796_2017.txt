@@ -1,0 +1,4 @@
+﻿Titre : Simulation 3D de câbles flexibles par un couplage méthode des éléments finis/quaternions/méthode asymptotique numérique
+Auteur(s) : Emmanuel Cottanceau; Olivier Thomas; Philippe Véron; Marc Alochet; Renaud Deligny
+Source : N/A
+Lien : h

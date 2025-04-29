@@ -1,0 +1,4 @@
+﻿Titre : Statistique avec R
+Auteur(s) : Pierre Cornillon; Arnaud Guyader; François Husson; Nicolas Jégou; Julie Josse; Maela Kloareg; Eric Matzner-Lober; Larent Rouvière
+Source : N/A
+Lien : h

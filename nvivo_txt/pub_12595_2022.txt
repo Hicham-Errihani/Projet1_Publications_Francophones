@@ -1,0 +1,4 @@
+﻿Titre : Proposition d'une nouvelle méthode d'estimation de l'incertitude des courbes de tarage déployable en masse avec les données hydrométriques issues de la base BAREME
+Auteur(s) : Benjamin Grelier; Didier Francois; Jérôme Le Coz; Yohan Soltermann
+Source : N/A
+Lien : h

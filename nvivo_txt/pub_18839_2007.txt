@@ -1,0 +1,4 @@
+﻿Titre : Validation et réconciliation de données. Approche conventionnelle, difficultés et développements
+Auteur(s) : Benoît Marx; Gilles Mourot; Didier Maquin; José Ragot
+Source : N/A
+Lien : h

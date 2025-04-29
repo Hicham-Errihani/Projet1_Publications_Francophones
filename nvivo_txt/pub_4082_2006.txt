@@ -1,0 +1,4 @@
+﻿Titre : Synthèse RST à déphasage nul pour la régulation de la qualité d'un réseau électrique
+Auteur(s) : Eric Ostertag; Emmanuel Godoy
+Source : N/A
+Lien : h

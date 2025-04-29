@@ -1,0 +1,4 @@
+﻿Titre : Conception de l'architecture d'un système d'instrumentation. Application à un procédé pétrochimique
+Auteur(s) : Hervé-Claude Turbatte; Didier Maquin; Chang Trung Huynh; José Ragot
+Source : R
+Lien : h

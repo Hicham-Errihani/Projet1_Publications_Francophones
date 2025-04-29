@@ -1,0 +1,4 @@
+﻿Titre : Point d'accès et nœuds pour contrôler le routage dans un réseau hybride
+Auteur(s) : Usman Javaid; Djamal-Eddine Meddour; Toufik Ahmed
+Source : N/A
+Lien : h

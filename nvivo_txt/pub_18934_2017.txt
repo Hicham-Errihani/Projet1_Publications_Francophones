@@ -1,0 +1,4 @@
+﻿Titre : Résolution des problèmes (W)CSP et #CSP par approches structurelles : Calcul et exploitation dynamique de décompositions arborescentes
+Auteur(s) : Hélène Kanso
+Source : N/A
+Lien : h

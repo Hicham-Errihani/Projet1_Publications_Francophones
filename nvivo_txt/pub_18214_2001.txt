@@ -1,0 +1,4 @@
+﻿Titre : PaStiX: Un solveur parallèle direct pour des matrices creuses symétriques définies positives basé sur un ordonnancement statique performant et sur une gestion mémoire efficace
+Auteur(s) : Pascal Hénon; Pierre Ramet
+Source : N/A
+Lien : h

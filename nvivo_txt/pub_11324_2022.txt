@@ -1,0 +1,4 @@
+﻿Titre : Multiplication rapide
+Auteur(s) : Joris van der Hoeven
+Source : N/A
+Lien : h

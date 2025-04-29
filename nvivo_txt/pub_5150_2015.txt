@@ -1,0 +1,4 @@
+﻿Titre : Modèle thermique de fantôme équivalent pour les études dosimétriques dans la bande 60 GHz
+Auteur(s) : C Leduc; Maxim Zhadobov; Ronan Sauleau
+Source : N/A
+Lien : h

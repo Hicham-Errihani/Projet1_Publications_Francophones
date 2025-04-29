@@ -1,0 +1,4 @@
+﻿Titre : Lorsque le bénéficiaire de l'attribution préférentielle est en même temps titulaire d'un bail grevant le bien, celui-ci est estimé comme libre de tout bail
+Auteur(s) : Michel Grimaldi
+Source : R
+Lien : h

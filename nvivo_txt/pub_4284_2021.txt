@@ -1,0 +1,4 @@
+﻿Titre : Modélisation par techniques harmoniques pour la commande et le filtrage actif de systèmes commutés associés appliquée à l’actionnement électrique
+Auteur(s) : Nicolas Blin
+Source : N/A
+Lien : h

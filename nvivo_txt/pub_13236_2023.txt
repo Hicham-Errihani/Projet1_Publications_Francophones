@@ -1,0 +1,4 @@
+﻿Titre : Application de la méthode de mesure champ proche en émission pour l’aide à la conception et à l’investigation des non-conformités CEM des cartes électroniques
+Auteur(s) : Sébastien Serpaud
+Source : N/A
+Lien : h

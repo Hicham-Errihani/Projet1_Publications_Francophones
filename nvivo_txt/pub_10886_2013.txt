@@ -1,0 +1,4 @@
+﻿Titre : Matrices de Toeplitz tronquées sur des polygones convexes. Cas du triangle.
+Auteur(s) : Jean-Marc Rinkel; Abdellatif Seghier
+Source : N/A
+Lien : h

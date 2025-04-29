@@ -1,0 +1,4 @@
+﻿Titre : Différentiation automatique et formes de Taylor en analyse statique de programmes numériques
+Auteur(s) : Alexandre Chapoutot; Matthieu Martel
+Source : R
+Lien : h

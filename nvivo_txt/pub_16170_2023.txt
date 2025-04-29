@@ -1,0 +1,4 @@
+﻿Titre : Modélisation et simulation numérique de l'étalement d'un fluide dense et à haute température
+Auteur(s) : Thomas Schiano
+Source : N/A
+Lien : h

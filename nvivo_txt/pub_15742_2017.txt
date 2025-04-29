@@ -1,0 +1,4 @@
+﻿Titre : Reproductibilité et répétabilité numérique. Constats, conseils et bonnes pratiques pour le cas des simulations stochastiques parallèles et distribuées
+Auteur(s) : David R.C. Hill; Van Toan Dao; Claude Mazel; Vincent Breton
+Source : R
+Lien : h

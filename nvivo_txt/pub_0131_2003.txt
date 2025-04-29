@@ -1,0 +1,4 @@
+﻿Titre : Simulations numériques de différentes méthodes d'éléments finis pour les problèmes de contact avec frottement.
+Auteur(s) : Laurent Baillet; T. Sassi
+Source : C
+Lien : h

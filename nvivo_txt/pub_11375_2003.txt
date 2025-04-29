@@ -1,0 +1,4 @@
+﻿Titre : Calculs de résistance de vagues et de tenue à la mer à l'aide de fonctions de Green : le code Poseidon
+Auteur(s) : M. Guilbaud; J.P. Boin; M. Ba
+Source : N/A
+Lien : h

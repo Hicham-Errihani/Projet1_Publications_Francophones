@@ -1,0 +1,4 @@
+﻿Titre : Représentations l-modulaires des groupes p-adiques : décomposition en blocs de la catégorie des représentations lisses de GL(m,D), groupe métaplectique et représentation de Weil
+Auteur(s) : Gianmarco Chinello
+Source : N/A
+Lien : h

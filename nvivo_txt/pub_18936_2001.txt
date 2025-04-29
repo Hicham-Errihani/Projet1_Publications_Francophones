@@ -1,0 +1,4 @@
+﻿Titre : Utilisation des réseaux de neurones pour la modélisation d'une serre agricole
+Auteur(s) : Jean-François Balmat
+Source : N/A
+Lien : h

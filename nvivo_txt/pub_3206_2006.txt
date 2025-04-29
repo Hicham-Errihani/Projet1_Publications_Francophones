@@ -1,0 +1,4 @@
+﻿Titre : 3D Simulation of multipass welding of austenitic stainless steel plate
+Auteur(s) : Walid El Ahmar; Jean-François Jullien
+Source : N/A
+Lien : h

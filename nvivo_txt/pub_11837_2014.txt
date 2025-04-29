@@ -1,0 +1,4 @@
+﻿Titre : Calculs de vecteurs de précodage pour un système multi-relais multi-utilisateurs et calcul des performances
+Auteur(s) : Jean-Pierre Cances
+Source : N/A
+Lien : h

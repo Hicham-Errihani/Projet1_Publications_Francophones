@@ -1,0 +1,4 @@
+﻿Titre : Simulation thermique des trajectoires de lasage basée sur des flashs en fabrication additive LPBF
+Auteur(s) : Kamel Ettaieb; Sylvain Lavernhe; Christophe Tournier
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Enchères, concurrence par comparaisons et collusion
+Auteur(s) : Chong Eshien; Freddy Huet
+Source : R
+Lien : h

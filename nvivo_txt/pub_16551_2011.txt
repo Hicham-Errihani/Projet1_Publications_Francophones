@@ -1,0 +1,4 @@
+﻿Titre : Utilisation d'un simulateur système pour l'étude d'une transmission OFDM pour le réseau d'accès optique
+Auteur(s) : Thierno Ibrahima Barry; Christelle Aupetit-Berthelemot; Jean-Pierre Cances
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Classification multi-classes au prix d'un classifieur binaire
+Auteur(s) : Zineb Noumir; Paul Honeine; Cédric Richard
+Source : N/A
+Lien : h

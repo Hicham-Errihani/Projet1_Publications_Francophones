@@ -1,0 +1,4 @@
+﻿Titre : Holographie numérique de particules : amélioration de l'algorithme de dépouillement par optimisation
+Auteur(s) : Jérôme Gire; Christophe Ducottet
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Exploration des techniques de fouille de données pour un monitoring efficace des systèmes intégrés sur puce
+Auteur(s) : Mohamad Najem
+Source : N/A
+Lien : h

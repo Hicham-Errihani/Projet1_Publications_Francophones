@@ -1,0 +1,4 @@
+﻿Titre : Développement d’un pipeline en confinement de niveau 2 pour identifier des marqueurs de cellules immunitaires d’animaux de rente infectés à l’échelle de la cellule unique
+Auteur(s) : Alix Sausset; Florian Tomal; Laura Sedano; Thierry Chaumeil; Sonia Lacroix-Lamandé; Françoise I. Bussière; Yves Le Vern
+Source : N/A
+Lien : h

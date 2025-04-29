@@ -1,0 +1,4 @@
+﻿Titre : Ouvrage-type PICF : développement d’un programme de modélisation paramétré sur un logiciel de modélisation aux éléments finis
+Auteur(s) : Armand Choux
+Source : N/A
+Lien : h

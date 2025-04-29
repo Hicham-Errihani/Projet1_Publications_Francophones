@@ -1,0 +1,4 @@
+﻿Titre : Etude de l'impact de la transimpédance sur les performances d'une liaison DCO ou ACO-OFDM/IM-DD sur fibre du reseau d'acces PON
+Auteur(s) : Max Fréjus Sanya; Leopold Djogbe; A. Vianou; Christelle Aupetit-Berthelemot
+Source : N/A
+Lien : h

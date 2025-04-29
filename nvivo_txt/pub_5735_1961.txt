@@ -1,0 +1,4 @@
+﻿Titre : Dispositif permettant l'analyse de l'impulsion d'un photomultiplicateur rapide
+Auteur(s) : G. Pfeffer; G. Laustriat; A. Coche
+Source : J
+Lien : h

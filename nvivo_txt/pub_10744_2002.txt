@@ -1,0 +1,4 @@
+﻿Titre : Réalisation et caractérisation d'une caméra à balayage de fente synchroscan à résolution temporelle proche de la picoseconde
+Auteur(s) : W. Uhring
+Source : N/A
+Lien : h

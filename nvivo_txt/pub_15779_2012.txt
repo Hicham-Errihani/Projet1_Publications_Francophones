@@ -1,0 +1,4 @@
+﻿Titre : Une nouvelle stratégie de glissement de données pour les caches élastiques dans les architectures manycoeurs.
+Auteur(s) : Safae Dahmani
+Source : N/A
+Lien : h

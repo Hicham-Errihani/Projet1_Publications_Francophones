@@ -1,0 +1,4 @@
+﻿Titre : Détection et élimination dynamique de la symétrie dans le problème de satisfiabilité
+Auteur(s) : Belaïd Benhamou; Tarek Nabhani; Richard Ostrowski; Mohamed Réda Saïdi
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Contribution à l'étude de la distorsion au traitement thermique : suivi continu par vision artificielle et simulation numérique par élèments finis
+Auteur(s) : Stéphane Claudinon; Pascal Lamesle; Jean-José Orteu; Roland Fortunier
+Source : N/A
+Lien : h

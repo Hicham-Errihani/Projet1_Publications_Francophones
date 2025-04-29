@@ -1,0 +1,4 @@
+﻿Titre : Analyse en grandes dimensions de tests d'hypothèses pour la détection d'émetteur
+Auteur(s) : Pascal Bianchi; Merouane Debbah; Mylène Maïda; Jamal Najim
+Source : N/A
+Lien : h

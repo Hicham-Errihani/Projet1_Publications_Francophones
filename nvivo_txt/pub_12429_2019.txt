@@ -1,0 +1,4 @@
+﻿Titre : Expérimentation et modélisation du comportement hyperélastique d'une membrane dans une cartouche microfluidique
+Auteur(s) : Clément Quintard; Yves Fouillet; Charlotte Parent; Xavier Gidrol; Jean-Luc Achard
+Source : N/A
+Lien : h

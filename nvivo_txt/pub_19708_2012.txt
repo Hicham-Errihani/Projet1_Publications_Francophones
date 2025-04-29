@@ -1,0 +1,4 @@
+﻿Titre : Random walks and first-passage properties: Trajectory analysis and search optimization
+Auteur(s) : Vincent Tejedor
+Source : N/A
+Lien : h

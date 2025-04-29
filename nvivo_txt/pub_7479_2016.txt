@@ -1,0 +1,4 @@
+﻿Titre : Introduction aux tests statistiques avec R
+Auteur(s) : Christophe Chesneau
+Source : N/A
+Lien : h

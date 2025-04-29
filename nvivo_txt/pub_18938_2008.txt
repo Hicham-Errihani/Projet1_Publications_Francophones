@@ -1,0 +1,4 @@
+﻿Titre : Des chaînes d'équivalences dans un codage CNF du problème XSAT
+Auteur(s) : Richard Ostrowski; Lionel Paris
+Source : N/A
+Lien : h

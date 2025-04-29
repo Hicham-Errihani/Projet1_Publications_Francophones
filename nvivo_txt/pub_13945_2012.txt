@@ -1,0 +1,4 @@
+﻿Titre : Interpolation de l’évapotranspiration de référence en Tunisie par la méthode de krigeage ordinaire
+Auteur(s) : Christophe Cudennec
+Source : S
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : La sécurité des communications dans les systèmes embarqués
+Auteur(s) : Mohamed Aymen Chalouf
+Source : N/A
+Lien : h

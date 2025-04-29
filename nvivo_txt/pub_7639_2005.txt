@@ -1,0 +1,4 @@
+﻿Titre : A variational formulation of constitutive models and updates in nonlinear finite viscoelasticity
+Auteur(s) : Eduardo Fancello; Laurent Stainier; Jean-Philippe Ponthot
+Source : N/A
+Lien : h

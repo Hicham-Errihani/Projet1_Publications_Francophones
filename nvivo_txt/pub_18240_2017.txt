@@ -1,0 +1,4 @@
+﻿Titre : Introduction aux architectures et calculs neuroinspirés
+Auteur(s) : Sylvain Saïghi
+Source : N/A
+Lien : h

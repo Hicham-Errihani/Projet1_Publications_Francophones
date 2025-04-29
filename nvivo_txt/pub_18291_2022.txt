@@ -1,0 +1,4 @@
+﻿Titre : Oscillateur en classe C à 10 GHz, à faible bruit et large plage d’accord en fréquence, avec une fiabilité à long terme et un réglage du bruit de phase par la grille arrière
+Auteur(s) : Ayoub Ait Ihda; Yann Deval; Hervé Lapuyade; François Rivet; Matthieu Gastaldi; Stéphane Rochette
+Source : N/A
+Lien : h

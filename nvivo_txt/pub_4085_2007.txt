@@ -1,0 +1,4 @@
+﻿Titre : Modélisation et inférence du lien entre deux variables à partir d'observations géoréférencées et hétérotopes
+Auteur(s) : Nicolas Desassis
+Source : N/A
+Lien : h

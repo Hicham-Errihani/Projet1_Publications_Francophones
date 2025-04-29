@@ -1,0 +1,4 @@
+﻿Titre : Utilisation d'un atelier d'ingénierie système pour l'Identification des risques d'un véhicule connecté
+Auteur(s) : Pascal Krapf; Serge Rakotosolofo; Sébastien Berthier
+Source : N/A
+Lien : h

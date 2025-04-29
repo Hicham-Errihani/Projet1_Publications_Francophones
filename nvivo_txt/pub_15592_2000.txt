@@ -1,0 +1,4 @@
+﻿Titre : Détermination de l'architecture de modèles neuromimétiques par implantation parallèle
+Auteur(s) : Laurent Bougrain; Yann Boniface
+Source : N/A
+Lien : h

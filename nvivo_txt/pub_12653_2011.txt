@@ -1,0 +1,4 @@
+﻿Titre : Planification de trajectoire d'un système non linéaire de type FitzHugh Nagumo
+Auteur(s) : Emmanuelle Crépeau
+Source : J
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Codage de sources avec information adjacente et connaissance incertaine des corrélations
+Auteur(s) : Elsa Dupraz
+Source : N/A
+Lien : h

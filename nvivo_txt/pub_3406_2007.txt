@@ -1,0 +1,4 @@
+﻿Titre : La comparaison des nombres décimaux, conception et expérimentation d'une aide aux élèves en difficulté.
+Auteur(s) : Eric Roditi
+Source : A
+Lien : h

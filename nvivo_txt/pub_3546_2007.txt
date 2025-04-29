@@ -1,0 +1,4 @@
+﻿Titre : Estimation non paramétrique adaptative pour les chaînes de Markov et les chaînes de Markov cachées
+Auteur(s) : Claire Lacour
+Source : N/A
+Lien : h

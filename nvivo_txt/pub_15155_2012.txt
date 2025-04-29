@@ -1,0 +1,4 @@
+﻿Titre : Une approche structurale de la propriété
+Auteur(s) : William Dross
+Source : R
+Lien : h

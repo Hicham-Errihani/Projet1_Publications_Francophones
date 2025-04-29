@@ -1,0 +1,4 @@
+﻿Titre : Simulation numlérique des détonations à double structure cellulaire
+Auteur(s) : V. Guilly; D. Desbordes; B. Khasainov; H.N. Presles
+Source : C
+Lien : h

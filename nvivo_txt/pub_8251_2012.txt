@@ -1,0 +1,4 @@
+﻿Titre : Développement d'outils de surveillance de la pression dans les pneumatiques d'un véhicule à l'aides des méthodes basées sur l'analyse spectrale et sur la synthèse d'observateurs
+Auteur(s) : Charbel El Tannoury
+Source : N/A
+Lien : h

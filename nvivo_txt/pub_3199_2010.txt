@@ -1,0 +1,4 @@
+﻿Titre : Combinaison de caractéristiques pour la reconnaissance rapide, robuste et invariante d’objets spécifiques
+Auteur(s) : Jérôme Revaud; Guillaume Lavoué; Yasuo Ariki; Atilla Baskurt
+Source : N/A
+Lien : h

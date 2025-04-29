@@ -1,0 +1,4 @@
+﻿Titre : Une Approche pour la Gestion de la Mobilité des Terminaux dans un Réseau IEEE 802.15.4 en Arbre
+Auteur(s) : C. Chaabane; Alain Pegatoquet; Michel Auguin; O. Mbarek; M. Benjemaa
+Source : N/A
+Lien : h

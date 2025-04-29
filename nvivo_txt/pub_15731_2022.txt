@@ -1,0 +1,4 @@
+﻿Titre : Analyse de données GPR (Ground Penetrating Radar) par machine learning : trois projets sur les infrastructures de transports
+Auteur(s) : Grégory Andreoli; Philippe Foucher; David Guilbert; Cyrille Fauchard; Christophe Heinkelé; Rakeeb Jaufer
+Source : N/A
+Lien : h

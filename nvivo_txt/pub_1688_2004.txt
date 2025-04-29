@@ -1,0 +1,4 @@
+﻿Titre : Principes et mise en oeuvre de l'interopérabilité dans le système d'analyse de documents Qgar
+Auteur(s) : Jan Rendek; Philippe Dosch; Gérald Masini; Karl Tombre
+Source : N/A
+Lien : h

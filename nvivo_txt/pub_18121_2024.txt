@@ -1,0 +1,4 @@
+﻿Titre : Analyse du problème des oscillations parasites des méthodes de Volumes Finis pour des écoulements à faible nombre de Mach en mécanique des fluides
+Auteur(s) : Ibtissem Lannabi
+Source : N/A
+Lien : h

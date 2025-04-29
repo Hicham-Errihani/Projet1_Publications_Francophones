@@ -1,0 +1,4 @@
+﻿Titre : Une méthode conservative de couplage instationnaire de codes en aérothermique
+Auteur(s) : Emmanuel Radenac; Jérémie Gressier; Pierre Millan; Andrea Giovannini
+Source : N/A
+Lien : h

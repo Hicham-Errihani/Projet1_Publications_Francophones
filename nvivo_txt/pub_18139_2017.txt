@@ -1,0 +1,4 @@
+﻿Titre : Modélisation des écoulements turbulents par une approche hybride RANS/LES temporelle
+Auteur(s) : Remi Manceau
+Source : N/A
+Lien : h

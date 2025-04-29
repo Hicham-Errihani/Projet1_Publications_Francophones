@@ -1,0 +1,4 @@
+﻿Titre : Modèle polarimétrique de BRDF
+Auteur(s) : Romain Ceolato
+Source : N/A
+Lien : h

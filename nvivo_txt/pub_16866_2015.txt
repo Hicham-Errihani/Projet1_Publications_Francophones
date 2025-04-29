@@ -1,0 +1,4 @@
+﻿Titre : Estimation stochastique d'un écoulement décollé en aval d'une bosse par méthode électrochimique.
+Auteur(s) : Anthony Graziani; Fawzi Fadla; Marc Lippert; Franck Kerhervé; Romain Mathis; David Uystepruyst; Laurent Keirsbulck
+Source : N/A
+Lien : h

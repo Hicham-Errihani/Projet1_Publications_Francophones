@@ -1,0 +1,4 @@
+﻿Titre : Programmation haute performance pour architectures hybrides
+Auteur(s) : Rachid Habel
+Source : N/A
+Lien : h

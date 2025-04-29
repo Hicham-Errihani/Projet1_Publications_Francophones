@@ -1,0 +1,4 @@
+﻿Titre : Segmentation et détection de lésions cérébrales combinant apprentissage profond et factorisation à partir d'IRM multi-paramétriques
+Auteur(s) : Pooya Ashtari
+Source : N/A
+Lien : h

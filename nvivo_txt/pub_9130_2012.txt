@@ -1,0 +1,4 @@
+﻿Titre : Analyse de stabilité et de performances d'une classe de systèmes non-linéaires à commutations en temps discret
+Auteur(s) : Carlos Alberto Cavichioli Gonzaga
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : MODELISATION DU COURANT DE GRILLE DES HEMTs AlGaN/GaN
+Auteur(s) : L. Lacheze; C. Sury; A. Curutchet; N. Malbert; N. Labat; A. Touboul
+Source : N/A
+Lien : h

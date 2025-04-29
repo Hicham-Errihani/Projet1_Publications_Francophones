@@ -1,0 +1,4 @@
+﻿Titre : Microcapteurs compatibles avec les technologies CMOS : Application aux systèmes sur puce pour l'instrumentation
+Auteur(s) : L. Hébrard
+Source : N/A
+Lien : h

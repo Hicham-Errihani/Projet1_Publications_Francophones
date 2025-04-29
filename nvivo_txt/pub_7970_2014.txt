@@ -1,0 +1,4 @@
+﻿Titre : Couche graphique de la carte des sols de Privas (carte des sols au 1/100 000)
+Auteur(s) : Charles Viyer; Sébastien Lehmann; Anne C Richer-De-Forges
+Source : N/A
+Lien : h

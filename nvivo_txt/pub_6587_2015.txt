@@ -1,0 +1,4 @@
+﻿Titre : Optimisation par technique source-pull du rendement d'un redresseur doubleur de tension pour faibles puissances à 900 MHz
+Auteur(s) : Jérôme Tissier; Aya Mabrouki; Mohamed Latrach; Zoya Popovic
+Source : N/A
+Lien : h

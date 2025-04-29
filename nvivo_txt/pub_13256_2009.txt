@@ -1,0 +1,4 @@
+﻿Titre : Reconstruction 3D à partir des ombrages
+Auteur(s) : Jean-Denis Durou
+Source : N/A
+Lien : h

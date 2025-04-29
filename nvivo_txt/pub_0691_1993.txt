@@ -1,0 +1,4 @@
+﻿Titre : Proposition d'une arithmétique rationnelle paresseuse et d'un outil d'aide à la saisie d'objets en synthèse d'images
+Auteur(s) : Philippe Jaillon
+Source : N/A
+Lien : h

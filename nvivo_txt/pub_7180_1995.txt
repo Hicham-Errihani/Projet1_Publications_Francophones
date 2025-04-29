@@ -1,0 +1,4 @@
+﻿Titre : Informatique et poésie
+Auteur(s) : Alain Vuillemin
+Source : R
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Sizing optimization of multi-vector energy systems: Studying the influence of model level of detail on the control strategy
+Auteur(s) : Joseph Brisson; Mathieu Vallee; Pierre Lemaire; Siao Leu Phouratsamay
+Source : N/A
+Lien : h

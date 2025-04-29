@@ -1,0 +1,4 @@
+﻿Titre : Abaques virtuels pour l'optimisation géométrique de structures
+Auteur(s) : Amaury Courard; David Néron; Pierre Ladevèze; Philippe Andolfatto; Alain Bergerot
+Source : N/A
+Lien : h

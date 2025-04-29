@@ -1,0 +1,4 @@
+﻿Titre : Une approche organisationnelle et multi-agent pour la modélisation et l'implantation de métaheuristiques, Application aux problèmes d'optimisation de réseaux de transports
+Auteur(s) : David Meignan
+Source : N/A
+Lien : h

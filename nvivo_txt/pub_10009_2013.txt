@@ -1,0 +1,4 @@
+﻿Titre : La programmation par contraintes pour l'assistance à l'agencement d'environnements virtuels
+Auteur(s) : Marouene Kefi; Vincent Barichard; Paul Richard
+Source : N/A
+Lien : h

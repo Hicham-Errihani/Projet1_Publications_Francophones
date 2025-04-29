@@ -1,0 +1,4 @@
+﻿Titre : Une plateforme basée sur les interfaces tangibles pour l'assemblage en CFAO
+Auteur(s) : Ludovic Garreau; Jérémy Legardeur; Nadine Couture
+Source : R
+Lien : h

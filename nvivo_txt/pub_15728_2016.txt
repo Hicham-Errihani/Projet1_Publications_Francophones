@@ -1,0 +1,4 @@
+﻿Titre : Une nouvelle approche au General Game Playing dirigée par les contraintes
+Auteur(s) : Eric Piette
+Source : N/A
+Lien : h

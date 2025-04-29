@@ -1,0 +1,4 @@
+﻿Titre : Modélisation probabiliste du style d'apprentissage et application à l'adaptation de contenus pédagogiques indexés par une ontologie
+Auteur(s) : Christophe Piombo
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Caractérisation du rythme à partir de l'analyse du signal audio
+Auteur(s) : Ugo Marchand
+Source : N/A
+Lien : h

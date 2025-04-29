@@ -1,0 +1,4 @@
+﻿Titre : Recalage déformable de projections de scanner X à faisceau conique
+Auteur(s) : Vivien Delmon
+Source : N/A
+Lien : h

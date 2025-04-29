@@ -1,0 +1,4 @@
+﻿Titre : Représentation du temps en B événementiel pour la modélisation des systèmes de temps réel.
+Auteur(s) : Olfa Mosbahi; Jacques Jaray
+Source : N/A
+Lien : h

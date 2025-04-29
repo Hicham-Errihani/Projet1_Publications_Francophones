@@ -1,0 +1,4 @@
+﻿Titre : Modèle ontologique formel, un appui à la sélection des variables pour la construction des modèles multivariés.
+Auteur(s) : Thibaut Pressat-Laffouilhère
+Source : N/A
+Lien : h

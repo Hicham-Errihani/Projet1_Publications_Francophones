@@ -1,0 +1,4 @@
+﻿Titre : DEFT 2021: Évaluation automatique de réponses courtes, une approche basée sur la sélection de traits lexicaux et augmentation de données
+Auteur(s) : Timothée Poulain; Victor Connes
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Principe d'invariance et application à la statistique de modèles censurés
+Auteur(s) : Nathalie Castelle
+Source : N/A
+Lien : h

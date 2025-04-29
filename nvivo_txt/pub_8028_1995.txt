@@ -1,0 +1,4 @@
+﻿Titre : Définition de critères formels dans l’usage du deux-points pour le traitement automatique de la langue naturelle
+Auteur(s) : Mehenni Akbal
+Source : R
+Lien : h

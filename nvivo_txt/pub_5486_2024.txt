@@ -1,0 +1,4 @@
+﻿Titre : Optimisation de schémas d’exploitation pour des réseaux de distribution de gaz : méthode, implémentation et validation
+Auteur(s) : Yacine Gaoua; Nicolas Vasset; Frank Goetgheluck; Benjamin Metz
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Commande prédictive sous contraintes de sécurité pour des systèmes dynamiques Multi-Agents
+Auteur(s) : Minh Tri Nguyen
+Source : N/A
+Lien : h

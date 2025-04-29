@@ -1,0 +1,4 @@
+﻿Titre : Quelques applications d'algorithmes d'apprentissage en finance quantitative
+Auteur(s) : Jeremy Chichportich
+Source : N/A
+Lien : h

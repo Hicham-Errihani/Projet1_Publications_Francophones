@@ -1,0 +1,4 @@
+﻿Titre : Extraction spatio-temporelle d'objets dans la vidéo HD compressée par des ondelettes sous paradigme d'indexation primaire
+Auteur(s) : Claire Morand; Jenny Benois-Pineau; Jean-Philippe Domenger
+Source : N/A
+Lien : h

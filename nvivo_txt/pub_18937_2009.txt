@@ -1,0 +1,4 @@
+﻿Titre : PYROXENE : un système d'aide à la décision territoriale par intégration de simulateurs spatiaux. Application à l'évolution de la carte du risque d'incendie de forêt.
+Auteur(s) : E. Maillé; B. Espinasse; Sébastien Fournier
+Source : N/A
+Lien : h

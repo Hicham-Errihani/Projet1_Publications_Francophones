@@ -1,0 +1,4 @@
+﻿Titre : Modélisation des problèmes d'ateliers reconfigurables
+Auteur(s) : Xavier Delorme; Gérard Fleury; Philippe Lacomme; Damien Lamy
+Source : N/A
+Lien : h

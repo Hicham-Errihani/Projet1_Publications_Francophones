@@ -1,0 +1,4 @@
+﻿Titre : Régression linéaire bayésienne sur données fonctionnelles
+Auteur(s) : Paul-Marie Grollemund
+Source : N/A
+Lien : h

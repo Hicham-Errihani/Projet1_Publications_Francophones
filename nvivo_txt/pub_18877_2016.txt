@@ -1,0 +1,4 @@
+﻿Titre : Contrôle de l'apparence des matériaux anisotropes
+Auteur(s) : Boris Raymond
+Source : N/A
+Lien : h

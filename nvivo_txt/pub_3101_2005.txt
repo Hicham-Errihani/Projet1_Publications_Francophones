@@ -1,0 +1,4 @@
+﻿Titre : Application des outils de l'analyse spectrale à la détection de défauts de soudage
+Auteur(s) : David Groslier; Stéphane Pellerin; Charles de Izarra; Frédéric Richard
+Source : N/A
+Lien : h

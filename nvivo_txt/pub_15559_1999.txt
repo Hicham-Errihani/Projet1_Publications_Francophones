@@ -1,0 +1,4 @@
+﻿Titre : Accès unique à des dictionnaires hétérogènes
+Auteur(s) : Mathieu Mangeot
+Source : N/A
+Lien : h

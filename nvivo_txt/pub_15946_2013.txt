@@ -1,0 +1,4 @@
+﻿Titre : Développement d'une méthodologie d'ordonnancement/optimisation adaptée aux systèmes industriels de type HVLV (High-Variety, Low-Volume).
+Auteur(s) : Imed Nasri
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Relation entre la température de la cathode et la tension d'arc
+Auteur(s) : R. Basile; J.-M. Lagrange
+Source : J
+Lien : h

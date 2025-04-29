@@ -1,0 +1,4 @@
+﻿Titre : Un algorithme de plus courts chemins pour le problème de flot de coût minimum dans un graphe dynamique
+Auteur(s) : Mathilde Vernet; Maciej Drozdowski; Yoann Pigné; Eric Sanlaville
+Source : N/A
+Lien : h

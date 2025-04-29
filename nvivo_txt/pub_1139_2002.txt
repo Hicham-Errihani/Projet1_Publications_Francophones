@@ -1,0 +1,4 @@
+﻿Titre : Linéarité et variation : le cas du "n mouillé" en français.
+Auteur(s) : Joaquim Brandão De Carvalho; Yuji Kawaguchi
+Source : R
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Conception et simulation d’un moyen de chauffage de matériaux diélectriques à très haute température (1500°C-2000°C) pour la caractérisation hyperfréquence in-situ
+Auteur(s) : Jesse Touoyem Talla; Baptiste Henriot; Michael Charles; Olivier Tantot; Nicolas Delhote; Thierry Duvaut; Jaona Randrianalisoa
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Stabilisation et projection de type « Assumed Strain » de l'élément de coque massif « SHB8PS » pour éliminer les problèmes de verrouillage
+Auteur(s) : Farid Abed-Meraim; Alain Combescure
+Source : N/A
+Lien : h

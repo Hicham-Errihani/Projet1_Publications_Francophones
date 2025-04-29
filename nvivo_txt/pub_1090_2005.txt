@@ -1,0 +1,4 @@
+﻿Titre : Raisonner la prise d'échantillon de terre d'une parcelle agricole
+Auteur(s) : Jean-Luc Julien; Bruno B. Mary; Dominique D. Arrouays
+Source : C
+Lien : h

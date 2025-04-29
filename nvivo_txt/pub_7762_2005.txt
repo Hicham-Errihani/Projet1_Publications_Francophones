@@ -1,0 +1,4 @@
+﻿Titre : (m,k)-WFQ : Intégration des contraintes temporelles (m,k)-firm dans les réseaux à débit garanti
+Auteur(s) : Anis Koubaa; Ye-Qiong Song; Jean-Pierre Thomesse
+Source : R
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Time Variable Tempo Detection and Beat Marking
+Auteur(s) : Geoffroy Peeters
+Source : N/A
+Lien : h

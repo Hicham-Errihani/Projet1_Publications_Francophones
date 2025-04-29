@@ -1,0 +1,4 @@
+﻿Titre : ProFeatMap: a highly customizable tool for 2D feature representation of protein sets
+Auteur(s) : Goran Bich; Elodie Monsellier; Gilles Travé; Yves Nominé
+Source : B
+Lien : h

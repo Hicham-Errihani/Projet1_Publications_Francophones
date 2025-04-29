@@ -1,0 +1,4 @@
+﻿Titre : Algorithme exact pour le problème de l'indépendant faiblement connexe de cardinalité minimum.
+Auteur(s) : Fatiha Bendali; Jean Mailfert; Djelloul Mameri
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Architecture de Recherche et de Recommandation d'Information à base de Profils Définitions, acquisitions, usages de profils
+Auteur(s) : Pascaline Tchienehom
+Source : N/A
+Lien : h

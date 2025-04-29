@@ -1,0 +1,4 @@
+﻿Titre : Spécification et validation des systèmes hétérogènes embarqués
+Auteur(s) : G. Nicolescu
+Source : N/A
+Lien : h

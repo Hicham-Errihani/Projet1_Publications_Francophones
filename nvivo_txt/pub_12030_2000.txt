@@ -1,0 +1,4 @@
+﻿Titre : Diagnostic et arbres de décision – Application à la surveillance partielle d’un moteur asynchrone
+Auteur(s) : Denis Pomorski; Paul-Benoît Perche
+Source : J
+Lien : h

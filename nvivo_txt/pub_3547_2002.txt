@@ -1,0 +1,4 @@
+﻿Titre : Damage identification for anisotropic sheet metal using a non local damage model
+Auteur(s) : Michel Brunet; Fabrice Morestin; Hélène Walter-Le Berre
+Source : N/A
+Lien : h

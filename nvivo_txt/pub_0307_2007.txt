@@ -1,0 +1,4 @@
+﻿Titre : Modèle algébrique des arbres de défaillance intégrant des contraintes sur l'ordre d'occurrence des événements
+Auteur(s) : Guillaume Merle; Jean-Marc Roussel
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Génération et placement de couleurs sur une vue de type métro
+Auteur(s) : Christophe Hurter; Mathieu Serrurier; Gilles Tabart; Jean-Luc Vinot
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Modélisation par éléments finis de type solide-coque de structures piézoélectriques
+Auteur(s) : Fessal Kpeky; Hakim Boudaoud; Farid Abed-Meraim; El Mostafa Daya
+Source : N/A
+Lien : h

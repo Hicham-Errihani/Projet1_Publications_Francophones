@@ -1,0 +1,4 @@
+﻿Titre : NeCSTGen : Génération de Trafic Réseau Réaliste par Apprentissage Profond
+Auteur(s) : Fabien Meslet-Millet; Sandrine Mouysset; Emmanuel Chaput
+Source : N/A
+Lien : h

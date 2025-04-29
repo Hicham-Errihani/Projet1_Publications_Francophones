@@ -1,0 +1,4 @@
+﻿Titre : Mise au point d'un code de calcul robuste pour la modélisation par la méthode SPH de solides en grandes déformations
+Auteur(s) : Bertrand Maurel; Alain Combescure
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Backjumping pour le calcul d’ensembles réponses dans les solveurs ASP guidés par les regles
+Auteur(s) : Stéphane N’goma; Laurent Garcia; Claire Lefevre; Igor Stéphan
+Source : N/A
+Lien : h

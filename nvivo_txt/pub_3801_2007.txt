@@ -1,0 +1,4 @@
+﻿Titre : Modélisation des taux de défaillance en mécanique - Combinaison d'une loi de Weibull et d'un modèle de Cox pour la modélisation des taux de défaillance en fonction du temps et des facteurs d'influence
+Auteur(s) : Florent Brissaud; Brice Lanternier; Dominique Charpentier; Patrick Lyonnet
+Source : N/A
+Lien : h

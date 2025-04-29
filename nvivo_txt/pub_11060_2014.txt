@@ -1,0 +1,4 @@
+﻿Titre : Méthode de pilotage d'une machine synchrone à réluctance variable et machine équipée d'un système de pilotage correspondant
+Auteur(s) : Samer Yammine; Lionel Calegari; Sébastien Desharnais; Carole Hénaux; Maurice Fadel
+Source : N/A
+Lien : h

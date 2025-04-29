@@ -1,0 +1,4 @@
+﻿Titre : Prédiction de la fonction de survie par sélection de modèle
+Auteur(s) : Ion Grama; Jean François Petiot
+Source : N/A
+Lien : h

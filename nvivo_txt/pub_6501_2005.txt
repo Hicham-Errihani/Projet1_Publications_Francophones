@@ -1,0 +1,4 @@
+﻿Titre : CreolData : une base de données lexicales sur les langues créoles
+Auteur(s) : Emmanuel Schang; Jean-Louis Rougé; Iris Eshkol; Mélanie Petit
+Source : R
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Un Outil pour la Conception de SMA par Apprentissage par Renforcement et Modélisation Organisationnelle
+Auteur(s) : Julien Soulé; Jean-Paul Jamont; Michel Occello; Louis-Marie Traonouez; Paul Théron
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Équivalence du Consensus et de la Diffusion dans les Réseaux à Omissions Bornées
+Auteur(s) : Emmanuel Godard; Joseph Peters
+Source : N/A
+Lien : h

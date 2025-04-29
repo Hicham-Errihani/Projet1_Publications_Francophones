@@ -1,0 +1,4 @@
+﻿Titre : Méthode des panneaux quadratiques pour la résolution du problème de tenue à la mer avec vitesse d'avance
+Auteur(s) : X.C. Chen; M. Guilbaud; L. Diebold; Y. Doutreleau
+Source : N/A
+Lien : h

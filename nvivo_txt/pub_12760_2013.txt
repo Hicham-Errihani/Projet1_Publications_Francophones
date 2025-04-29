@@ -1,0 +1,4 @@
+﻿Titre : Audioprint : An Efficient Audio Fingerprint System Based On A Novel Cost-Less Synchronization Scheme
+Auteur(s) : Mathieu Ramona; Geoffroy Peeters
+Source : N/A
+Lien : h

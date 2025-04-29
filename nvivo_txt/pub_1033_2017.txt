@@ -1,0 +1,4 @@
+﻿Titre : Homogénéisation par une méthode de domaine fictif
+Auteur(s) : Daniel Choi; Philippe Karamian; Tianlong He
+Source : N/A
+Lien : h

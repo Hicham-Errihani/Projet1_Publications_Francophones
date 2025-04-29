@@ -1,0 +1,4 @@
+﻿Titre : MonPaGe, un outil de screening francophone informatisé d’évaluation perceptive et acoustique des troubles moteurs de la parole (dysarthries, apraxie de la parole
+Auteur(s) : Michaela Pernon; Nathalie Lévêque; Véronique Delvaux; Frédéric Assal; Stéphanie Borel; Cécile Fougeron; Roland Trouville; Marina Laganaro
+Source : R
+Lien : h

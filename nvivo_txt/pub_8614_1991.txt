@@ -1,0 +1,4 @@
+﻿Titre : Etalonnage et intercomparaison des donnees satellitaires en utilisant le site test de la Crau (applique aux images SPOT1-HRV, LANDSAT5-TM, NOAA11-AVHRR)
+Auteur(s) : - Xingfa Gu
+Source : N/A
+Lien : h

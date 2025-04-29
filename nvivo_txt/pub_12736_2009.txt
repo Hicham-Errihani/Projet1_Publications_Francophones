@@ -1,0 +1,4 @@
+﻿Titre : Étude des descripteurs acoustiques pour l'alignement temporel audio-sur-partition musicale
+Auteur(s) : Cyril Joder; Slim Essid; Gael Richard
+Source : N/A
+Lien : h

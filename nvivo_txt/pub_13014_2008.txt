@@ -1,0 +1,4 @@
+﻿Titre : Un modèle d'approximation de diffusion pour la distribution du temps d'acheminement des paquets dans les réseaux de senseurs
+Auteur(s) : Tadeusz Czachórski; Krzysztof Grochla; Ferhan Pekergin
+Source : N/A
+Lien : h

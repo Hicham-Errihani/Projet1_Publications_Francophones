@@ -1,0 +1,4 @@
+﻿Titre : Évaluer des annotations manuelles dispersées : les coefficients sont-ils suffisants pour estimer l'accord inter-annotateurs ?
+Auteur(s) : Karen Fort; Claire François; Maha Ghribi
+Source : N/A
+Lien : h

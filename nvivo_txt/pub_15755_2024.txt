@@ -1,0 +1,4 @@
+﻿Titre : Apprentissage de représentations d'auteurs et d'autrices à partir de modèles de langue pour l'analyse des dynamiques d'écriture.
+Auteur(s) : Enzo Terreau
+Source : N/A
+Lien : h

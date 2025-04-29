@@ -1,0 +1,4 @@
+﻿Titre : Concevoir des Scénarios Pédagogiques Exécutables avec des Patrons de Conception Pédagogiques
+Auteur(s) : César Olavo de Moura Filho; Alain Derycke
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Cohomologie $L^p$ en degré 1 des espaces homogènes
+Auteur(s) : Pierre Pansu
+Source : P
+Lien : h

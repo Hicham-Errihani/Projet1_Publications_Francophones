@@ -1,0 +1,4 @@
+﻿Titre : Stress d'abattage et qualites de la viande
+Auteur(s) : Gabriel Monin
+Source : R
+Lien : h

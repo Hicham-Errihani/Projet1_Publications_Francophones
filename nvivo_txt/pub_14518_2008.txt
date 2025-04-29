@@ -1,0 +1,4 @@
+﻿Titre : Seuil d'approximation pour le modèle UET-UCT en présence d'une infinité de processeurs : Une preuve alternative
+Auteur(s) : Rodolphe Giroudeau
+Source : R
+Lien : h

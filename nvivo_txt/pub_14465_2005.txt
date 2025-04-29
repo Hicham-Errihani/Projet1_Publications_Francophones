@@ -1,0 +1,4 @@
+﻿Titre : Simulation of wear through mass balance in a dry contact
+Auteur(s) : Nicolas Fillot; Ivan Iordanoff; Yves Berthier
+Source : J
+Lien : h

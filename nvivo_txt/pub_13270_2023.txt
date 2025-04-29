@@ -1,0 +1,4 @@
+﻿Titre : Projet Archaeoroom : numérisation du patrimoine archéologique et développement de la suite logicielle open-source AliceVision Meshroom
+Auteur(s) : Antoine Laurent; Jean Mélou; Carole Fritz; Jean-Denis Durou
+Source : N/A
+Lien : h

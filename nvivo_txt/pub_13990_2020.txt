@@ -1,0 +1,4 @@
+﻿Titre : Efficacité en vie réelle de diméthylfumarate dans la sclérose en plaques (SEP) : cohorte à partir des données du Système National des Données de Santé (SNDS)
+Auteur(s) : Bosco-Lévy Pauline; Severine Lignot; Abouelfath Abdelilah; Marc Debouverie; Brochet Bruno; Francis Guillemin; Blin Patrick
+Source : R
+Lien : h

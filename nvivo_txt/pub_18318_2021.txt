@@ -1,0 +1,4 @@
+﻿Titre : Réseau de Neurones Siamois Multimodal pour la prédiction d'évolution de maladies neurodégénératives
+Auteur(s) : C Ostertag; M Beurton-Aimar; M Visani; T Urruty
+Source : N/A
+Lien : h

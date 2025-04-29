@@ -1,0 +1,4 @@
+﻿Titre : Méthodes de reconstruction tridimensionnelle intégrant des points cycliques : application au suivi d’une caméra
+Auteur(s) : Lilian Calvet
+Source : N/A
+Lien : h

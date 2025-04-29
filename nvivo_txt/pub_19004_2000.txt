@@ -1,0 +1,4 @@
+﻿Titre : Conception d'un essai triaxial à succion contrôlée : mesure des déformations
+Auteur(s) : M. Gasc-Barbier; Philippe Cosenza; M. Ghoreychi; S. Chanchole; D. Tessier
+Source : C
+Lien : h

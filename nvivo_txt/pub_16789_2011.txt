@@ -1,0 +1,4 @@
+﻿Titre : Étude de classes de noyaux adaptées à la simplification et à l’interprétation des modèles d’approximation. Une approche fonctionnelle et probabiliste.
+Auteur(s) : Nicolas Durrande
+Source : N/A
+Lien : h

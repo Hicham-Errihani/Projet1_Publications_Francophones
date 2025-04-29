@@ -1,0 +1,4 @@
+﻿Titre : Automates, énumération et algorithmes
+Auteur(s) : Frédérique Bassino
+Source : N/A
+Lien : h

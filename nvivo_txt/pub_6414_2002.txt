@@ -1,0 +1,4 @@
+﻿Titre : Evaluation a priori d'un modele non-linéaire de turbulence
+Auteur(s) : Omar El Yahyaoui; Gilmar Mompean; Hassan Naji
+Source : C
+Lien : h

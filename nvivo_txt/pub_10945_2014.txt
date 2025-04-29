@@ -1,0 +1,4 @@
+﻿Titre : Mise en place et développement d'un outil de phénotypage assisté par vision artificielle pour la sélection du chou-fleur
+Auteur(s) : Angéline Bellouard
+Source : N/A
+Lien : h

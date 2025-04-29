@@ -1,0 +1,4 @@
+﻿Titre : Codage hippocampique par transitions spatio-temporelles pour l'apprentissage autonome de comportements dans des tâches de navigation sensori-motrice et de planification en robotique
+Auteur(s) : Julien Hirel
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Validation de mesures à variance inconnue
+Auteur(s) : Houcine Chafouk; José Ragot; Didier Maquin; Jean Fayolle
+Source : N/A
+Lien : h

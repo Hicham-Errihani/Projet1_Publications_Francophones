@@ -1,0 +1,4 @@
+﻿Titre : Algorithme d'approximation facteur 2 pour les réseaux de Manhattan orientés minimaux
+Auteur(s) : Nicolas Catusse; Victor Chepoi; Karim Nouioua; Yann Vaxès
+Source : N/A
+Lien : h

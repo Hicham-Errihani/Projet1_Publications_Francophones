@@ -1,0 +1,4 @@
+﻿Titre : Généralisation des Jeux Combinatoires et Applications aux Langages Logiques
+Auteur(s) : Jean-Vincent Loddo
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Cryptographie homomorphe et transcodage d’image/video dans le domaine chiffré
+Auteur(s) : Donald Nokam Kuaté
+Source : N/A
+Lien : h

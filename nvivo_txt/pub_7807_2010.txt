@@ -1,0 +1,4 @@
+﻿Titre : Algorithme d'approximation facteur 2.5 pour le problème du réseau B-Manhattan minimal
+Auteur(s) : Nicolas Catusse; Victor Chepoi; Karim Nouioua; Yann Vaxès
+Source : N/A
+Lien : h

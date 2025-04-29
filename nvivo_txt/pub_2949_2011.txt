@@ -1,0 +1,4 @@
+﻿Titre : Un système multi-agent pour l'orchestration de processus de généralisation cartographique
+Auteur(s) : Guillaume Touya
+Source : N/A
+Lien : h

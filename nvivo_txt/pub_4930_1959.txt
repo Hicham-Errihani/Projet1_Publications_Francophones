@@ -1,0 +1,4 @@
+﻿Titre : Circuit à coincidence utilisant la conversion temps-amplitude
+Auteur(s) : S. Gorodetzky; Th. Muller; M. Port; G. Bergdolt; J. Graff
+Source : J
+Lien : h

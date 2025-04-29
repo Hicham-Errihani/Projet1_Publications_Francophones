@@ -1,0 +1,4 @@
+﻿Titre : Modélisation et estimation de variances hétérogènes dans les modèles non linéaires mixtes.
+Auteur(s) : Mylene Duval; Christèle Robert-Granié; Jean Louis J. L. Foulley
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Observateur et retour d'état pour la commande de convertisseur
+Auteur(s) : Jean-Claude Hapiot; Maurice Fadel; Philippe Cussac; H. Thiesen
+Source : N/A
+Lien : h

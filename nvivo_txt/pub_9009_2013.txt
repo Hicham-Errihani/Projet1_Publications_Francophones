@@ -1,0 +1,4 @@
+﻿Titre : Propagation d'une onde de choc en présence d'une barrière de protection
+Auteur(s) : Sébastien Eveillard
+Source : N/A
+Lien : h

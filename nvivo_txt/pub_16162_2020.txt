@@ -1,0 +1,4 @@
+﻿Titre : Les meilleurs agents sont ceux qu'on ne simule pas : vers des architectures de simulation multi-paradigmes ?
+Auteur(s) : Sébastien Picault; Vianney Sicard
+Source : N/A
+Lien : h

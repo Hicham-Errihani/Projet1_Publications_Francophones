@@ -1,0 +1,4 @@
+﻿Titre : Qu'est-ce qu'un stock ?
+Auteur(s) : Aude Denizot
+Source : R
+Lien : h

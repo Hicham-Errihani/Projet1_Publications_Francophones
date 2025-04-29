@@ -1,0 +1,4 @@
+﻿Titre : AlvisAE, un éditeur d'annotation sémantique structurée guidée par une ontologie évolutive
+Auteur(s) : Bossy Robert; Papazian Frédéric; Claire Nédellec
+Source : N/A
+Lien : h

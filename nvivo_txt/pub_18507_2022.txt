@@ -1,0 +1,4 @@
+﻿Titre : Étude de l’utilisation de réseaux de neurones artificiels pour des calculs de haute performance dédiés à la modélisation du transport de sources énergétiques
+Auteur(s) : Corisande Lamy
+Source : N/A
+Lien : h

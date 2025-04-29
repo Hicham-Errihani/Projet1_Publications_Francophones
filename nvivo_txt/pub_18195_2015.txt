@@ -1,0 +1,4 @@
+﻿Titre : Compétitions d'apprentissage automatique avec le package R rchallenge
+Auteur(s) : Adrien Todeschini; Robin Genuer
+Source : N/A
+Lien : h

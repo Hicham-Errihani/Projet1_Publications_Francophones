@@ -1,0 +1,4 @@
+﻿Titre : Contrôle modal à partir dun modèle condensé équivalent réduit, application à un treillis
+Auteur(s) : Xavier de Lepine; Johan Der Hagopian; Jarir Mahfoudh
+Source : N/A
+Lien : h

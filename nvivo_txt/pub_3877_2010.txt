@@ -1,0 +1,4 @@
+﻿Titre : Modèles d'arbre pour XOLAP
+Auteur(s) : Marouane Hachicha; Jérôme Darmont
+Source : N/A
+Lien : h

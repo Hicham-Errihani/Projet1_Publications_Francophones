@@ -1,0 +1,4 @@
+﻿Titre : Propagation du rayonnement en milieu diffusant. Etude de la transition entre le regime balistique et le regime diffusif et des fluctuations temporelles d'intensite
+Auteur(s) : Rachid Elaloufi
+Source : N/A
+Lien : h

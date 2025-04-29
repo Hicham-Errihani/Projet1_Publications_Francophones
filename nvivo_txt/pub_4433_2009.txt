@@ -1,0 +1,4 @@
+﻿Titre : Fonctionnelles et fonctions de Minkowski à voisinages adaptatifs généraux pour l'analyse des images à tons de gris
+Auteur(s) : Séverine Rivollier; Johan Debayle; Jean-Charles Pinoli
+Source : N/A
+Lien : h

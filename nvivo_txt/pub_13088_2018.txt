@@ -1,0 +1,4 @@
+﻿Titre : Algorithme d’approximation pour un problème d’affectation d’une commande multiproduit multifournisseur
+Auteur(s) : Azeddine Cheref; Christian Artigues; Emmanuel Hébrard; Pierre Lopez; Vincent Charvillat; Yves Régent; Sandra Ulrich Ngueveu
+Source : N/A
+Lien : h

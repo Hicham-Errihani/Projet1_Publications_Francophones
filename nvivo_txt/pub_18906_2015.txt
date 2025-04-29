@@ -1,0 +1,4 @@
+﻿Titre : Renommage et Splitters en présence d'une Majorité de Pannes
+Auteur(s) : David Bonnin; Corentin Travers
+Source : N/A
+Lien : h

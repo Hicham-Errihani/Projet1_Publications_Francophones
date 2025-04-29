@@ -1,0 +1,4 @@
+﻿Titre : Détermination des prix d'achat et de vente d'une loterie: une application de la théorie des surplus.
+Auteur(s) : Jean-Michel Courtault; Jean-Pascal Gayant
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Optimizations of multi-channel binaural formats based on statistical analysis
+Auteur(s) : Emmanuel Rio; Olivier Warusfel
+Source : N/A
+Lien : h

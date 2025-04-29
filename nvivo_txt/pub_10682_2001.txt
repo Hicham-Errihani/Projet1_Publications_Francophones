@@ -1,0 +1,4 @@
+﻿Titre : Statistique de la variable aléatoire L(sym2f,1)
+Auteur(s) : Emmanuel Royer
+Source : M
+Lien : h

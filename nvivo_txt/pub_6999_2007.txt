@@ -1,0 +1,4 @@
+﻿Titre : Procédé d'émission par un émetteur comportant une unique antenne, d'un ensemble de données à destination d'un récepteur comprenant des antennes
+Auteur(s) : Ali Khaleghi; Ghaïs El Zein
+Source : N/A
+Lien : h

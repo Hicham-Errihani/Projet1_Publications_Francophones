@@ -1,0 +1,4 @@
+﻿Titre : Système pour détecter des réponses d'un dispositif résonateur micro-électromécanique (MEMS)
+Auteur(s) : H. Tanbakuchi; Bernard Legrand; D. Theron; D. Ducatteau
+Source : N/A
+Lien : h

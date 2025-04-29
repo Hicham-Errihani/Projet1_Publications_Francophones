@@ -1,0 +1,4 @@
+﻿Titre : Modélisation en vue de la simulation énergétique des bâtiments : Application au prototypage virtuel et à la gestion optimale de PREDIS MHI.
+Auteur(s) : Hoang Anh Dang
+Source : N/A
+Lien : h

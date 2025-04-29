@@ -1,0 +1,4 @@
+﻿Titre : Modèles graphiques causaux interactifs pour les données textuelles
+Auteur(s) : Amine Ferdjaoui; Séverine Affeldt; Mohamed Nadif
+Source : N/A
+Lien : h

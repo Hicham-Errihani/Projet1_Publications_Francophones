@@ -1,0 +1,4 @@
+﻿Titre : Étiquetage en rôles événementiels fondé sur l'utilisation d'un modèle neuronal
+Auteur(s) : E. Boroş; Romaric Besançon; Olivier Ferret; Brigitte Grau
+Source : N/A
+Lien : h

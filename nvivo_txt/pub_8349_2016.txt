@@ -1,0 +1,4 @@
+﻿Titre : Approximation de superchaîne, indexation et assemblage de génome
+Auteur(s) : Bastien Cazaux
+Source : N/A
+Lien : h

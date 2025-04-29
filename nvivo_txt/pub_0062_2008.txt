@@ -1,0 +1,4 @@
+﻿Titre : Modélisation circuit d'une chambre reverbérante à brassage de modes bidimensionnelle avec intégration de deux antennes et de leur couplage
+Auteur(s) : Houmam Moussa; Andrea Cozza; Michel Cauterman
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Modélisation de l’endommagement en fatigue d’un acier faiblement allié assisté d’hydrogène sous pression par méthode numérique de champ de phase
+Auteur(s) : Shaymaa Merheb; Dmytro Vasiukov; Modesar Shakoor; Salim Chaki; Daniella Guedes Sales; Philippe Rohart; Samir Assaf
+Source : N/A
+Lien : h

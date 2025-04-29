@@ -1,0 +1,4 @@
+﻿Titre : Integrating expert knowledge into industrial control structures
+Auteur(s) : Sylvie Galichet; Laurent Foulloy
+Source : C
+Lien : h

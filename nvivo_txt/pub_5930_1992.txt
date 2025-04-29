@@ -1,0 +1,4 @@
+﻿Titre : Assimilation de mesures satellitaires dans des modèles numériques par méthodes de contrôle optimal
+Auteur(s) : François van den Berghe
+Source : N/A
+Lien : h

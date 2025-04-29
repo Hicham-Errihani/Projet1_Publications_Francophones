@@ -1,0 +1,4 @@
+﻿Titre : Validation expérimentale d'outils de modélisation d'une pile à combustible de type PEM
+Auteur(s) : Mathieu Boillot
+Source : N/A
+Lien : h

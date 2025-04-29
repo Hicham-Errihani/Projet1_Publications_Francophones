@@ -1,0 +1,4 @@
+﻿Titre : Développement de méthodes multi-échelles pour la simulation numérique des écoulements réactifs diphasiques
+Auteur(s) : Olivier Thomine
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Analyse factorielle des dépendances partielles
+Auteur(s) : J.J. Daudin
+Source : R
+Lien : h

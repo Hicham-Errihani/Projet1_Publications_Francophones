@@ -1,0 +1,4 @@
+﻿Titre : Commande des antennes actives par des réseaux d`oscillateurs couplés
+Auteur(s) : Florin Hutu; Sébastien Cauet; Patrick Coirault; Jean-Marie Paillot
+Source : N/A
+Lien : h

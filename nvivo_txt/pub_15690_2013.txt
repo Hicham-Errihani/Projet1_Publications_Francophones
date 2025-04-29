@@ -1,0 +1,4 @@
+﻿Titre : Stabilité linéaire, sensibilité et contrôle passif d'écoulements turbulents par différences finies
+Auteur(s) : Clément Mettot
+Source : N/A
+Lien : h

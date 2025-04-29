@@ -1,0 +1,4 @@
+﻿Titre : Méthodes d’éléments finis non conformes sans verrouillage numérique pour problèmes issus de la mécanique
+Auteur(s) : Daniela Capatina
+Source : N/A
+Lien : h

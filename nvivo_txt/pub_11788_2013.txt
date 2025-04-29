@@ -1,0 +1,4 @@
+﻿Titre : Rationalisation par calculs TD-DFT des propriétés d’absorption et de dichroïsme circulaire de systèmes donneur-accepteur
+Auteur(s) : Thomas Cauchy; Narcis Avarvari
+Source : N/A
+Lien : h

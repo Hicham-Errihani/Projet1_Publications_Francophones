@@ -1,0 +1,4 @@
+﻿Titre : Modèle d’endommagement incrémental en temps pour la prévision de la durée de vie des composites tissés 3D en fatigue cyclique et en fatigue aléatoire
+Auteur(s) : Lise Angrand
+Source : N/A
+Lien : h

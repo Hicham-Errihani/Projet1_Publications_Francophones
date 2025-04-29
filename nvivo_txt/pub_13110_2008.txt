@@ -1,0 +1,4 @@
+﻿Titre : Stata par la pratique : concepts de base, graphiques et éléments de programmation
+Auteur(s) : Eric E. Cahuzac; Christophe Bontemps
+Source : N/A
+Lien : h

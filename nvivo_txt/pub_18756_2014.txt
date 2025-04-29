@@ -1,0 +1,4 @@
+﻿Titre : Contribution à la reconstruction de surfaces complexes à partir d'un grand flot de données non organisées pour la métrologie 3D.
+Auteur(s) : Nadim El-Hayek
+Source : N/A
+Lien : h

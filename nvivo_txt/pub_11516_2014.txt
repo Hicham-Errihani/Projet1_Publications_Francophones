@@ -1,0 +1,4 @@
+﻿Titre : Disfluences dans la parole spontanée conversationnelle: détection automatique utilisant des indices lexicaux et acoustiques
+Auteur(s) : Camille Dutrey; Sophie Rosset; Martine Adda-Decker; Chloé Clavel; I. Vasilescu
+Source : N/A
+Lien : h

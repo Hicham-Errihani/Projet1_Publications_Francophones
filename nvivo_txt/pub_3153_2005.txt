@@ -1,0 +1,4 @@
+﻿Titre : Elastic-plastic analysis of the cylindrical contact between layered bodies
+Auteur(s) : Philippe Sainsot; Lucie Bachelet
+Source : N/A
+Lien : h

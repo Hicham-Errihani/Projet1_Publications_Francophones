@@ -1,0 +1,4 @@
+﻿Titre : Déplacement 3D d'une microgoutte par des forces électrostatiques pour des laboratoires sur puce.
+Auteur(s) : Jean-Luc Achard
+Source : N/A
+Lien : h

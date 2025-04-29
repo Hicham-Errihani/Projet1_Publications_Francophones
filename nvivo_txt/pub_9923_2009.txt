@@ -1,0 +1,4 @@
+﻿Titre : Estimation par plug-in du taux d'entropie d'un processus markovien de sauts à espace d'état fini
+Auteur(s) : Philippe Regnault
+Source : N/A
+Lien : h

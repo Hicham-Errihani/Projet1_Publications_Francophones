@@ -1,0 +1,4 @@
+﻿Titre : The tool TWINA construction d'espaces d'états abstrait pour l'intersection de Time Petri nets
+Auteur(s) : Éric Lubat
+Source : N/A
+Lien : h

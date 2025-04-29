@@ -1,0 +1,4 @@
+﻿Titre : Analyse expérimentale et modélisation du bruit haute fréquence des transistors bipolaires à hétérojonctions SiGe et InGaAs/InP pour les applications très hautes fréquences
+Auteur(s) : Eloy Ramirez-Garcia Ramirez-Garcia
+Source : N/A
+Lien : h

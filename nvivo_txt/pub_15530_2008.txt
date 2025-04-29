@@ -1,0 +1,4 @@
+﻿Titre : Placide : une solution protocolaire pour le suivi de la chaîne du froid à l'aide d'un réseau de capteurs
+Auteur(s) : André-Luc Beylot; Rahim Kacimi; Riadh Dhaou
+Source : N/A
+Lien : h

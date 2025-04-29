@@ -1,0 +1,4 @@
+﻿Titre : Génération automatisée d’un livre numérique “sans perte sémantique”
+Auteur(s) : Vincent Gros; Jean-Claude Jc Moissinac; Luc Audrain
+Source : N/A
+Lien : h

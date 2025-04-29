@@ -1,0 +1,4 @@
+﻿Titre : Modélisation et apprentissage de relations spatiales pour la reconnaissance et l’interprétation d’images
+Auteur(s) : Michaël Clément
+Source : N/A
+Lien : h

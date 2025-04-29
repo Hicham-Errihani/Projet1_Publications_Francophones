@@ -1,0 +1,4 @@
+﻿Titre : Une nouvelle technique d'identification des procédés dynamiques multi-entrées
+Auteur(s) : Didier Mielcarek; Christophe Loeffler; José Ragot
+Source : R
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Développement de différentes méthodes pour la prise en compte de couches limites turbulentes non-homogènes dans les simulations vibro-acoustiques
+Auteur(s) : Corentin Guillon
+Source : N/A
+Lien : h

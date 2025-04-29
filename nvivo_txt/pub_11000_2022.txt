@@ -1,0 +1,4 @@
+﻿Titre : Are Random Projections really useful in Mathematical Programming?
+Auteur(s) : Leo Liberti
+Source : N/A
+Lien : h

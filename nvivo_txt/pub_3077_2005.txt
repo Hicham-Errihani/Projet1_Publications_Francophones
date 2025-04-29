@@ -1,0 +1,4 @@
+﻿Titre : Appropriate extended functions for X-FEM simulation of plastic fatigue crack growth
+Auteur(s) : Thomas Elguedj; Anthony Gravouil; Alain Combescure
+Source : N/A
+Lien : h

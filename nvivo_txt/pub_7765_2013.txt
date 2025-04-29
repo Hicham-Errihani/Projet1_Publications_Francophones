@@ -1,0 +1,4 @@
+﻿Titre : Ecoulement et distribution de liquide dans un bord de Plateau
+Auteur(s) : Alexandre Cohen; Nathalie Fraysse; Jean Rajchenbach; Christophe Raufaste
+Source : N/A
+Lien : h

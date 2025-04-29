@@ -1,0 +1,4 @@
+﻿Titre : Un algorithme de réallocation de mouvements appliqué à la propagation d'épidémies chez les bovins
+Auteur(s) : Thibaut Morel-Journel
+Source : N/A
+Lien : h

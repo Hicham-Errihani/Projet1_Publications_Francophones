@@ -1,0 +1,4 @@
+﻿Titre : Prédiction par essais virtuels de l'amortissement dans les structures spatiales
+Auteur(s) : David Néron; Pierre Ladevèze; Alain Caignot; Naima Moustaghfir; Jean-François Durand
+Source : N/A
+Lien : h

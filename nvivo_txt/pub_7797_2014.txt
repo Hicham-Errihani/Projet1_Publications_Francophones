@@ -1,0 +1,4 @@
+﻿Titre : Détection de contraintes de cardinalité dans les CNF
+Auteur(s) : Armin Biere; Daniel Le Berre; Emmanuel Lonca; Norbert Manthey
+Source : N/A
+Lien : h

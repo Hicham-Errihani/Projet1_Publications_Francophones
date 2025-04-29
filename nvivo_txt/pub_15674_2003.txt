@@ -1,0 +1,4 @@
+﻿Titre : Algorithmique parallèle du texte : du modèle systolique au modèle CGM
+Auteur(s) : Thierry Garcia
+Source : N/A
+Lien : h

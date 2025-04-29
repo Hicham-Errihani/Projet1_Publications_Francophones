@@ -1,0 +1,4 @@
+﻿Titre : Prise en compte des pertes dans un modèle MTL de câbles de transmission d’énergie
+Auteur(s) : Yvan Lefèvre; Carole Hénaux; Eric Duhayon
+Source : N/A
+Lien : h

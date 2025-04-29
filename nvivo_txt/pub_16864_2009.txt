@@ -1,0 +1,4 @@
+﻿Titre : Contrôle actif de l'amplitude et de la phase d'un faisceau en sortie de fible multimode LMA par Holographie dynamique
+Auteur(s) : Mathieu Paurisse; Marc Hanna; Frédéric Druon; Patrick Georges; Cindy Bellanger; Arnaud Brignon; Jean-Pierre Huignard
+Source : N/A
+Lien : h

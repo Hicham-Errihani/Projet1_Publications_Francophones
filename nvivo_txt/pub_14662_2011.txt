@@ -1,0 +1,4 @@
+﻿Titre : Contribution à l’étude d’éléments finis de type coque sans degrés de liberté en rotation ou à formulation solide pour des simulations numériques de l’emboutissage et du retour élastique
+Auteur(s) : Bruno Bassa
+Source : N/A
+Lien : h

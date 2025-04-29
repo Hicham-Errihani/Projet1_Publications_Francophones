@@ -1,0 +1,4 @@
+﻿Titre : Commande prédictive d'un système biologique : comparaison entre les approches par linéarisation et non linéaire
+Auteur(s) : Firas Rouissi
+Source : N/A
+Lien : h

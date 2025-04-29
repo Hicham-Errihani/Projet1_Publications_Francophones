@@ -1,0 +1,4 @@
+﻿Titre : Création d'un atelier de simulation pour l'apprentissage de l'auscultation cardiaque chez le chien
+Auteur(s) : Élise Postic
+Source : N/A
+Lien : h

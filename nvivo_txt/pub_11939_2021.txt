@@ -1,0 +1,4 @@
+﻿Titre : Repérage automatique d’énoncés définitoires avec Unitex pour l’aide à l’enrichissement de ressources terminologiques : retour d’expérience
+Auteur(s) : Patricia Fener; Claude Dahdouh
+Source : N/A
+Lien : h

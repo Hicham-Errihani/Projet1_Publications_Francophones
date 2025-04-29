@@ -1,0 +1,4 @@
+﻿Titre : Allocation d’objets par des échanges le long d’un réseau social
+Auteur(s) : Laurent Gourvès; Julien Lesca; Anaëlle Wilczynski
+Source : N/A
+Lien : h

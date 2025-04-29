@@ -1,0 +1,4 @@
+﻿Titre : Conception et commande d’un système multi-actionneurs piézo-électriques pour l’assistance au forgeage par vibrations
+Auteur(s) : Thanh Hung Nguyen
+Source : N/A
+Lien : h

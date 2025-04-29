@@ -1,0 +1,4 @@
+﻿Titre : Traitement spatial du son par décorrélation des signaux en ambisonie d'ordre élevé
+Auteur(s) : Paul Goutmann
+Source : N/A
+Lien : h

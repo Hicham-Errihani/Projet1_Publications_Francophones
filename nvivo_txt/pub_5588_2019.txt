@@ -1,0 +1,4 @@
+﻿Titre : Conception et réalisation d’un écosystème basé sur des propriétés formelles d’isolation mémoire pour l’Internet des objets
+Auteur(s) : Mahieddine Yaker
+Source : N/A
+Lien : h

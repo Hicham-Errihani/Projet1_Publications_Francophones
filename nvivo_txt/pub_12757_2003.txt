@@ -1,0 +1,4 @@
+﻿Titre : Music Structure Discovering Using Dynamic Features for Audio Summary Generation: &quot;Sequence&quot; and &quot;State&quot; approach
+Auteur(s) : Geoffroy Peeters; Xavier Rodet
+Source : N/A
+Lien : h

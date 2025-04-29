@@ -1,0 +1,4 @@
+﻿Titre : Résolution de contraintes qualitatives pour le temps et l'espace par SAT à partir de treillis
+Auteur(s) : Jean-François Condotta; Daniel Le Berre
+Source : N/A
+Lien : h

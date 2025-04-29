@@ -1,0 +1,4 @@
+﻿Titre : Méthode de mesure intrusive de la température et du flux dans le jet de la tuyère d’un propulseur
+Auteur(s) : A. Foucaran; V. Lepage; E. Charles; A. Boyer
+Source : R
+Lien : h

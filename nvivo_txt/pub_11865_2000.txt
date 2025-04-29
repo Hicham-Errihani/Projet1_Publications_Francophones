@@ -1,0 +1,4 @@
+﻿Titre : Désagrégation d'estimations pluviométriques obtenues sur des grandes mailles et utilisation en entrée d'un modèle hydrologique événementiel adapté aux particularités de l'environnement sahélien
+Auteur(s) : T. Lebel; F. Delclaux; G. Guillot; B. Cappelaere; C. Peugeot; Jan Polcher
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Modèle hiérarchique bayésien pour données de biomasse à forte proportion de zéros avec une structure spatiale
+Auteur(s) : Jean-Baptiste Lecomte; Liliane Bel; Hugues P Benoît; Eric Parent
+Source : N/A
+Lien : h

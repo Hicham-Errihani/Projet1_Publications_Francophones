@@ -1,0 +1,4 @@
+﻿Titre : Graphe de communauté pour la validation de relations dans le cadre de la population de bases de connaissances
+Auteur(s) : Rashedur Rahman; Brigitte Grau; Sophie Rosset
+Source : N/A
+Lien : h

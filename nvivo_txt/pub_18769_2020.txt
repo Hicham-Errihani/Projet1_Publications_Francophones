@@ -1,0 +1,4 @@
+﻿Titre : Une méthodologie computationnelle pour faire de l’optimisation multi-objectifs en élevage de précision
+Auteur(s) : Alexandre Conanec; Marie Chavent; Marie-Pierre Ellies-Oury; Jérôme Saracco
+Source : N/A
+Lien : h

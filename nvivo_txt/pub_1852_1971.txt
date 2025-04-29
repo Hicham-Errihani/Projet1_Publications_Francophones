@@ -1,0 +1,4 @@
+﻿Titre : Etude Numérique de l'équation de la diffusion : Problème direct - Problème inverse
+Auteur(s) : Jean-Laurent Mallet
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : APPROCHE DIRECTE DE L'ESTIMATION AUTOMATIQUE DE L'ORIENTATION 3D D'IMAGES
+Auteur(s) : Mahzad Kalantari
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Commande prédictive robuste par des techniques d'observateurs basées sur des ensembles zonotopiques
+Auteur(s) : Vu Tuan Hieu Le; Cristina Stoica; Didier Dumur; T. Alamo; E.F. Camacho
+Source : J
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Étude et conception de méthodes de protection face aux attaques par corruption de mémoire pour systèmes embarqués dans le contexte de l'Internet des Objets.
+Auteur(s) : Yohan Boyer
+Source : N/A
+Lien : h

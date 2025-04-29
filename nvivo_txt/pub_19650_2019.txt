@@ -1,0 +1,4 @@
+﻿Titre : Prédiction de la fibrillation atriale à l'aide des signaux physiologiques
+Auteur(s) : Mohamed Mroueh; Farah Mourad-Chehade; Fahed Abdallah
+Source : N/A
+Lien : h

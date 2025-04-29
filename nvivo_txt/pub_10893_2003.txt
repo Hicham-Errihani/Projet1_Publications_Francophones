@@ -1,0 +1,4 @@
+﻿Titre : Solutions sous-analytiques globales de certaines équations d'Hamilton-Jacobi
+Auteur(s) : Emmanuel Trélat
+Source : C
+Lien : h

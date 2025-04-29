@@ -1,0 +1,4 @@
+﻿Titre : Allocation par enchères et planification hiérarchique pour un système multirobot, application au cas de la chasse aux mines
+Auteur(s) : Antoine Milot; Estelle Chauveau; Simon Lacroix; Charles Lesire Cabaniols
+Source : N/A
+Lien : h

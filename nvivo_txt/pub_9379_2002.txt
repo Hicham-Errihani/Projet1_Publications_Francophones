@@ -1,0 +1,4 @@
+﻿Titre : Contribution à l'analyse et à l'approximation des problèmes d'identification, de reconstruction et des systèmes d'équations elliptiques non linéaires
+Auteur(s) : Abdeljalil Nachaoui
+Source : N/A
+Lien : h

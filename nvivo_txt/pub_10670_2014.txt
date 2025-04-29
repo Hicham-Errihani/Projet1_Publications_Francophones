@@ -1,0 +1,4 @@
+﻿Titre : Virtual Interactive Behaviour : une architecture modulaire pour ACA
+Auteur(s) : André-Marie Pez; Pierre Philippe; Brice Donval; Catherine Pelachaud
+Source : N/A
+Lien : h

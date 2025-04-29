@@ -1,0 +1,4 @@
+﻿Titre : Allocation de ressources dans un réseau ad hoc sans fil basé sur l'ARQ hybride
+Auteur(s) : Sébastien Marcille; Philippe Ciblat; C. Le Martret
+Source : N/A
+Lien : h

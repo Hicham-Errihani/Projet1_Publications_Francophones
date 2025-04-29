@@ -1,0 +1,4 @@
+﻿Titre : Diffraction d'une onde acoustique (ou électromagnétique) par un plateau rigide (ou parfaitement conducteur)
+Auteur(s) : Mikaël Vermet; Pierre Combeau; Yannis Pousset; Rodolphe Vauzelle; Nicolas Noe; Philippe Jean
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Modélisation du transfert d'eau et de chaleur à travers la craie non saturée avec un schéma à double porosité -Validation avec des données expérimentales depuis la surface du sol jusqu'à la nappe.
+Auteur(s) : Dominique Thiéry; Nadia Amraoui
+Source : N/A
+Lien : h

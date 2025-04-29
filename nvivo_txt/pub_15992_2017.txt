@@ -1,0 +1,4 @@
+﻿Titre : Un intégrateur hétérogène asynchrone pour les problèmes d'impact et de contact: Application à un pont roulant sous séisme
+Auteur(s) : Fatima-Ezzahra Fekak; Michael Brun; Anthony Gravouil; Bruno Depale
+Source : N/A
+Lien : h

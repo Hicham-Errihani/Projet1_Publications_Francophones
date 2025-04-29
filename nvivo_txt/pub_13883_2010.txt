@@ -1,0 +1,4 @@
+﻿Titre : Prédire la présence et le nombre d'emplois dans les services pour les communes d'Auvergne
+Auteur(s) : M. Lenormand; Sylvie Huet; Guillaume Deffuant
+Source : N/A
+Lien : h

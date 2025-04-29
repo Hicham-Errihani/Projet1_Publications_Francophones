@@ -1,0 +1,4 @@
+﻿Titre : Étude de méthodes arborescentes de Monte-Carlo pour un problème de déplacement de pièces dans un atelier d'assemblage
+Auteur(s) : Valentin Antuori; Emmanuel Hébrard; Marie-José Huguet; S Essodaigui; A Nguyen
+Source : N/A
+Lien : h

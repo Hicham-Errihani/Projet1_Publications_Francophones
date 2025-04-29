@@ -1,0 +1,4 @@
+﻿Titre : Approximation polynomiale avec garantie de performance pour l'optimisation multicritère
+Auteur(s) : Eric Angel; Evripidis Bampis; Laurent Gourvès
+Source : N/A
+Lien : h

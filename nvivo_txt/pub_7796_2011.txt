@@ -1,0 +1,4 @@
+﻿Titre : Identification des coefficients aérodynamiques d'un projectile à partir de mesures prises en vol
+Auteur(s) : Hélène Demailly
+Source : N/A
+Lien : h

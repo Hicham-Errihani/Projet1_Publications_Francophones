@@ -1,0 +1,4 @@
+﻿Titre : Réconciliation de données et estimation paramétrique simultanées. Application à un convertisseur à oxygène
+Auteur(s) : Julien Francken; Didier Maquin; José Ragot; Bertrand Bèle
+Source : N/A
+Lien : h

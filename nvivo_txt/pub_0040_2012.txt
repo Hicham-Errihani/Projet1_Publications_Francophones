@@ -1,0 +1,4 @@
+﻿Titre : Quelques problèmes d’écoulements multi-fluide : analyse mathématique, modélisation numérique et simulation
+Auteur(s) : Saad Benjelloun
+Source : N/A
+Lien : h

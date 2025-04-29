@@ -1,0 +1,4 @@
+﻿Titre : Reconstruction sur GPU de Metropolis Instant Radiosity
+Auteur(s) : Anthony Pajot; Loïc Barthe; Mathias Paulin
+Source : R
+Lien : h

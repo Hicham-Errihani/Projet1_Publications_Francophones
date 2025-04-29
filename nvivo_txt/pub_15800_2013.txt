@@ -1,0 +1,4 @@
+﻿Titre : Problèmes d'additivité dus à la présence de hiérarchies complexes dans les modèles multidimensionnels : définitions, solutions et travaux futurs
+Auteur(s) : Marouane Hachicha; Jérôme Darmont
+Source : N/A
+Lien : h

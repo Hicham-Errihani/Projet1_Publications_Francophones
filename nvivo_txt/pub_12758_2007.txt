@@ -1,0 +1,4 @@
+﻿Titre : Interface de navigation musicale par le contenu
+Auteur(s) : Geoffroy Peeters; David Fenech; Xavier Rodet
+Source : N/A
+Lien : h

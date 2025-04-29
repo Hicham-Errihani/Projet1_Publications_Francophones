@@ -1,0 +1,4 @@
+﻿Titre : Détermination de la déformée statique d'une structure en treillis par la méthode des éléments finis
+Auteur(s) : T Kanyiki; F Ntambwe
+Source : J
+Lien : h

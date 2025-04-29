@@ -1,0 +1,4 @@
+﻿Titre : Identification des paramètres d’un transformateur d’un banc de test ferroviaire à échelle réelle
+Auteur(s) : Saba Amirdehi; Paul-Etienne Vidal; Baptiste Trajin; Johana Vally; Didier Colin
+Source : N/A
+Lien : h

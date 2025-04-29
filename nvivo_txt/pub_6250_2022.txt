@@ -1,0 +1,4 @@
+﻿Titre : Fonctions de couplage et chaînage des courbes de Gray surfaciques à noyaux
+Auteur(s) : Jean-François Rotgé
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Comparaison de politiques de maintenance conditionnelle pour des systèmes multicomposants à dégradation continue
+Auteur(s) : Bruno Castanier; Antoine Grall; Christophe Bérenguer
+Source : N/A
+Lien : h

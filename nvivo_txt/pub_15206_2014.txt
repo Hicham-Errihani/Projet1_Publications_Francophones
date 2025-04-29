@@ -1,0 +1,4 @@
+﻿Titre : Gestion de versions incertaines de documents XML
+Auteur(s) : Mouhamadou Lamine Ba; Talel Abdessalem; Pierre Senellart
+Source : R
+Lien : h

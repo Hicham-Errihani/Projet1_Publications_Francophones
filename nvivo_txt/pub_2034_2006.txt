@@ -1,0 +1,4 @@
+﻿Titre : Définition et réalisation d'outils de modélisation et de calcul de mouvement pour des humanoides virtuels
+Auteur(s) : Nicolas Pronost
+Source : N/A
+Lien : h

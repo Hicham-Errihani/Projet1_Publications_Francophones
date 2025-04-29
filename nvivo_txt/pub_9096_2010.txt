@@ -1,0 +1,4 @@
+﻿Titre : Analyse d'un problème de tournée de véhicules avec gestion de stock dans un contexte de stock de consignation
+Auteur(s) : Zied Jemai; Rim Kalai; Yacine Rekik
+Source : N/A
+Lien : h

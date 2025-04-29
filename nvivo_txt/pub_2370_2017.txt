@@ -1,0 +1,4 @@
+﻿Titre : Cerebra, un système de recommandation de candidats pour l'e-recrutement
+Auteur(s) : Annette Casagrande; Fabrizio Gotti; Guy Lapalme
+Source : N/A
+Lien : h

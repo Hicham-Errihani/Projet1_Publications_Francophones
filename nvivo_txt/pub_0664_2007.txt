@@ -1,0 +1,4 @@
+﻿Titre : Interaction entre une flamme et une paroi : rôle des transferts thermiques pariétaux
+Auteur(s) : B. Tayebi; C. Galizzi; F. André; L. Thiery; D. Escudie
+Source : N/A
+Lien : h

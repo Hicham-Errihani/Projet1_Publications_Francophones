@@ -1,0 +1,4 @@
+﻿Titre : {Optimisation conjointe du nombre des symboles pilotes et de l'allocation des puissances pour les canaux MIMO non selectifs en frequence}
+Auteur(s) : Imed {hadj Kacem}; Noura Sellami; Inbar Fijalkow; Aline Roumy
+Source : N/A
+Lien : h

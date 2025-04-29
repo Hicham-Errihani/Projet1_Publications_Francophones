@@ -1,0 +1,4 @@
+﻿Titre : Une approche hiérarchique bayésienne pour évaluer l'impact des incertitudes dosimétriques sur l'estimation du risque de cancer induit par l'exposition au scanner pendant l'enfance
+Auteur(s) : Anais Foucault; Marie-Odile Bernier; Sophie Ancelet
+Source : N/A
+Lien : h

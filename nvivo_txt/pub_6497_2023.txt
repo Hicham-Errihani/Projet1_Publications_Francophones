@@ -1,0 +1,4 @@
+﻿Titre : Évaluation de la performance de plusieurs modèles d’intelligence artificielle pour la classification des dossiers médicaux réalisés aux urgences selon différentes catégories d’ITT- E-(i)TT
+Auteur(s) : Hadrien Legendre
+Source : N/A
+Lien : h

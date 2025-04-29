@@ -1,0 +1,4 @@
+﻿Titre : Apprentissage d'inférences par édition d'arbres pour répondre à des questions
+Auteur(s) : Brigitte Grau; Martin Gleize
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Le traitement des données archéomagnétiques : approche bayésienne utilisant le maximum de vraisemblance pénalisée appliquée au lissage des données portant des erreurs sur la mesure et sur le temps. Conséquences pour l'archéomagnétisme.
+Auteur(s) : Philippe Lanos
+Source : N/A
+Lien : h

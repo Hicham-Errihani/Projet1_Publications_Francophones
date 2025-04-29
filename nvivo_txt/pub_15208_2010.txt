@@ -1,0 +1,4 @@
+﻿Titre : Architecture d'un système d'aide à l'alignement d'ontologies
+Auteur(s) : Mina Ziani; Danielle Boulanger; Guilaine Talens
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Correction des effets de gaine pour la mesure de la densité des électrons par sonde micro-onde
+Auteur(s) : Federico Boni; Victor Désangles; Julien Jarrige
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Estimation adaptative par sélection de partitions en rectangles dyadiques
+Auteur(s) : Nathalie Akakpo; Claire Lacour
+Source : N/A
+Lien : h

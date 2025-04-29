@@ -1,0 +1,4 @@
+﻿Titre : À qui les fruits au cas de réduction en valeur
+Auteur(s) : Michel Grimaldi
+Source : R
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : WrapITK: Utilisation d'ITK depuis Python pour l'analyse en 3D d'images biologiques
+Auteur(s) : Gaetan G. Lehmann; Zachary Pincus; Benoit Regrain; Xavier Vignon; Nathalie N. Beaujean Bobineau; Pierre Adenot
+Source : N/A
+Lien : h

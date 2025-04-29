@@ -1,0 +1,4 @@
+﻿Titre : Complexité paramétrée de l'optimisation sous contrainte DNNF
+Auteur(s) : Frédéric Koriche; Daniel Le Berre; Emmanuel Lonca; Pierre Marquis
+Source : N/A
+Lien : h

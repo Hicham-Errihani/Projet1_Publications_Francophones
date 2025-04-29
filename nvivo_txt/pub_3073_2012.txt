@@ -1,0 +1,4 @@
+﻿Titre : Prévoir sans persistance
+Auteur(s) : Christophe Boucher; Bertrand Maillet
+Source : R
+Lien : h

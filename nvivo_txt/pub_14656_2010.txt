@@ -1,0 +1,4 @@
+﻿Titre : Reconnaissance de symboles à partir d'une signature structurelle flexible et d'un classifieur de type treillis de Galois
+Auteur(s) : Mickaël Coustaty; Stéphanie Guillas; Karell Bertet; Jean-Marc Ogier; Muriel Visani
+Source : R
+Lien : h

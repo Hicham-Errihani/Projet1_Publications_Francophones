@@ -1,0 +1,4 @@
+﻿Titre : Validation Temporelle d'Applications Temps Réel Distribuées à Contraintes Strictes
+Auteur(s) : Gaëlle Largeteau-Skapin; Dominique Geniet
+Source : N/A
+Lien : h

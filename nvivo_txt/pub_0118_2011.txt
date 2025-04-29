@@ -1,0 +1,4 @@
+﻿Titre : Coefficient de fond des jaugeages par exploration du champ des vitesses
+Auteur(s) : Jérôme Le Coz
+Source : N/A
+Lien : h

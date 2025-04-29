@@ -1,0 +1,4 @@
+﻿Titre : Big Data and AI issues at CNRS (2nd FJG Workshop on Programming and Computing for Exascale and Beyond, Tokyo, Japan, 2018)
+Auteur(s) : Michel Daydé
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : Résolution de problèmes de transmission raide par méthodes d’éléments finis
+Auteur(s) : Daniela Capatina; Nicolas Raynaud
+Source : N/A
+Lien : h

@@ -1,0 +1,4 @@
+﻿Titre : L'interaction au service de l'optimisation à grande échelle des entrepôts de données relationnels
+Auteur(s) : Amira Kerkad
+Source : N/A
+Lien : h

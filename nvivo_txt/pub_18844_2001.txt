@@ -1,0 +1,4 @@
+﻿Titre : Analyse d'un système de mesure à paramètres incertains
+Auteur(s) : Hicham Janati-Idrissi; Olivier Adrot; Didier Maquin; José Ragot
+Source : N/A
+Lien : h

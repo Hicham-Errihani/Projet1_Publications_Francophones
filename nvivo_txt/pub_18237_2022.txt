@@ -1,0 +1,4 @@
+﻿Titre : Réalisation et optimisation d’un circuit de récupération d’horloge et de données basé sur le principe de verrouillage par injection d’oscillateur en anneau ciblant les technologies nanométriques et destiné à des applications spatiales
+Auteur(s) : Dorian Vert
+Source : N/A
+Lien : h

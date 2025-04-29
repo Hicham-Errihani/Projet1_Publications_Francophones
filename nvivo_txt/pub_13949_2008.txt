@@ -1,0 +1,4 @@
+﻿Titre : Approximation radiale et méthode LATIN multiéchelle en temps et en espace
+Auteur(s) : Jean-Charles Passieux; Pierre Ladevèze; David Néron
+Source : N/A
+Lien : h
