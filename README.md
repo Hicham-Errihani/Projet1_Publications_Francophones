@@ -114,3 +114,14 @@ hicham@hicham-virtual-machine:~/stage_aifs/projets/01. Le nombre de publications
 > - Le chemin affiché peut varier selon votre configuration
 > - Pour Windows, utilisez `python` au lieu de `python3`
 > - En cas d'erreur, vérifiez les fichiers dans `scripts/`
+### 6.Fichiers NVivo
+
+- [`01. Le nombre de publications scientifiques en français.nvp`](01. Le nombre de publications scientifiques en français.nvp)  
+  **Taille** : 150 Mo (utilise Git LFS)  
+  **Contenu** : Projet NVivo complet avec codages thématiques  
+  **Compatibilité** : NVivo 12+ (Windows)# Fichiers NVivo
+
+- [`01. Le nombre de publications scientifiques en français.nvp`](01. Le nombre de publications scientifiques en français.nvp)  
+  **Taille** : 150 Mo (utilise Git LFS)  
+  **Contenu** : Projet NVivo complet avec codages thématiques  
+  **Compatibilité** : NVivo 12+ (Windows)
